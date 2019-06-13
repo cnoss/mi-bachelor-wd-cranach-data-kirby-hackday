@@ -2,7 +2,7 @@
   "name": "FrontendDevelopmentHackday",
   "version": "1.0.0",
   "description": "Cranach Testdaten für den Frontend Development Hackday",
-  "main": "index.js",
+  "repository": "git@github.com:cnoss/mi-bachelor-wd-cranach-data-kirby-hackday.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dbuild": "docker build -t kirby .",
