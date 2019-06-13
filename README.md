@@ -3,6 +3,7 @@
 ## Prerequisites
 - Docker
 - Gulp
+- wget
 
 ## Getting Started
 
@@ -23,3 +24,30 @@ Im `src`Verzeichnis befindet sich die Kirby Instanz.
 ### Schritt 2: Abhängigkeiten installieren
 
 Nun sollten via `npm install` die notwendigen Abhängikeiten installiert werden.
+
+## NPM Commands
+
+### Docker Container bauen
+
+Mit `npm run dbuild` kann der Docker Container gebaut werden.
+
+
+### Docker Container starten
+
+Mit `npm run docker` kann der Docker Container gestartet werden und damit sollte die Cranach Testversion unter [http://localhost](http://localhost) verfügbar sein. Im Docker Container läuft ein Apache Webserver mit PHP 7.2. Als DocumentRoot wird das Verzeichnis `src` in den Container eingebunden.
+
+
+### SASS Dateien kompilieren
+
+Via `npm run watch` wird Gulp im Watchmode gestartet. Damit folgende Verzeichnisse überwacht:
+
+<pre>
+src/site/snippets/*
+src/assets/scss/*
+</pre>
+
+Bei Änderungen an SCSS Dateien in dieses Verzeichnissen wird ein neues CSS File generiert und unter `assets/css/site.css` abgelegt.
+
+### Statischen Mirror generieren
+
+Via `npm run static` kann von der kompletten *dynamischen* Website ein *statischer* Spiegel generiert werden. Somit haben wir eine statische Version der Website, die wir z.B. auf github.io deployen können. 
