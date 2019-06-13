@@ -1,0 +1,81 @@
+BildURL: http://lucascranach.org/thumbnails/DE_BStGS_12475_FR-none/01_Overall/DE_BStGS_12475_FR-none_2006_Overall.jpg
+
+----
+
+Oid: 346251
+
+----
+
+ObjectName: FR-none
+
+----
+
+Inventarnummer: DE_BStGS_12475
+
+----
+
+Title: Kopf der Maria (?)
+
+----
+
+Link: kopf-der-maria
+
+----
+
+Zuschreibung: Werkstatt Lucas Cranach der Ältere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1520
+
+----
+
+DateEnd: 1540
+
+----
+
+Longtext: Der Kopf der jungen Frau ist leicht zur linken Seite geneigt, während die blauen Augen nachdenklich dreinschauen. Das offene Haar fällt ihr über die rechte Schulter. Der Hintergrund ist dunkel.
+
+----
+
+RelatedWorks: - DE_SMG_SG14_FR054B
+
+----
+
+Classification: Malerei
+
+----
+
+Dimensions: Maße Bildträger: 25,2 x 17,8 cm
+[Bayerische Staatsgemäldesammlungen, revised 2010]
+[Exhib. Cat. Munich 2011, 143, No. 12475]
+
+
+
+----
+
+Provenienz: - 1956 aus Staatsbesitz überwiesen
+[Bayerische Staatsgemäldesammlungen, revised 2010]
+[Exhib. Cat. Munich 2011, 143, No. 12475]
+
+----
+
+MaterialTechnik: Malerei auf Pergament auf beidseitig mit Papier kaschierter Holztafel
+[Bayerische Staatsgemäldesammlungen, revised 2010]
+[Exhib. Cat. Munich 2011, 143, No. 12475]
+
+----
+
+VerwandteArbeiten: - DE_SMG_SG14_FR054B
+
+----
+
+Ausstellungsgeschichte: Kronach 1994, Nr. 190
+Hamburg 2003, Nr. 32
+München 2011, Nr. 15
+
+----

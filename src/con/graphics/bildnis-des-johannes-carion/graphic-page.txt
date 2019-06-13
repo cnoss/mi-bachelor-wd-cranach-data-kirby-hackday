@@ -1,0 +1,103 @@
+BildURL: http://lucascranach.org/thumbnails/DE_SBB_smbGG_FR177C/01_Overall/DE_SBB_smbGG_FR177C_1995-02_Overall.jpg
+
+----
+
+Oid: 406479
+
+----
+
+ObjectName: FR177C
+
+----
+
+Inventarnummer: DE_SBB_smbGG
+
+----
+
+Title: Bildnis des Johannes Carion
+
+----
+
+Link: bildnis-des-johannes-carion
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1525
+
+----
+
+DateEnd: 1535
+
+----
+
+Longtext: Bildnis des bärtigen Astrologen Johannes Carion (1499-1537/38) nach rechts gewendet im Dreiviertelporträt in grau-brauner Schaube mit schwarz-orangen Ärmeln und einem Pelzkragen auf braunem Grund. Links oben ist eine vierzeilige lateinische Inschrift zu lesen und links über seiner Schulter ein Wappen.
+
+[Gemäldegalerie Berlin, Unsinn 2010]
+
+----
+
+RelatedWorks: "Ein im Jagdschloss Grunewald befindliches Bildnis des brandenburgischen Kurfürsten - 1529 datiert - aber erst 1903 erworben, ist in den Abmessungen nahezu identisch mit unserem Carion-Porträt." 
+
+[Vortrag, Rainer Michaelis am 17. Mai 1989 im Deutschen Saal des Bodemuseums aus Anlass der Übergabe der Dauerleihgabe]
+
+DE_smbGG_Leihgabe_FR177C_1989_Document_1a.pdf
+
+----
+
+Classification: Malerei
+
+----
+
+Dimensions: Maße Bildträger: 52 x 37,3 cm
+[Gemäldegalerie, revised 2010]
+
+
+
+----
+
+Provenienz: "Es ist zu vermuten, dass das Carion-Porträt aus der ehemaligen Familien- und Hausbibliothek in die 1661 unter Kurfürst Friedrich Wilhelm gegründete "Churfürstliche Bibliothek zu Cölln an der Spree" gelangte, wo es in den ältesten Räumen der Bibliothek, im Apothekenflügel des königlichen Schlosses in einer Reihe mit Porträts von Hus, Luther, Melanchthon und anderen Berühmtheiten des Reformationszeitalters hing. Später blieb es auch in dem Kunstbesitz der "Königlichen Bibliothek" (1701), der "Preußischen Staatsbibliothek" (1918) und schließlich der "Deutschen Staatsbibliothek" integriert."
+
+Text von Irene Geismeier vermutlich 1989.
+[Gemäldegalerie, Berlin]
+
+----
+
+MaterialTechnik: Malerei auf Rotbuchenholz
+[Gemäldegalerie, revised 2010]
+
+----
+
+Beschriftung: Inschrift:
+- Oben Links:
+ "SI QVIB. EST LECTIS MEA COGNITA FAMA LIBELLIS
+  QVOS MEA SOLERTI CVRA LABORE DEDIT 
+  ILLE EGO SV CARION; COELI QVI SYDERA TRACTO
+  CLARVS ET ASTOR V NOMEN AB ARTE FERO"
+
+Übersetzt von H. Zimmermann in 
+[Exhib. Cat. Berlin 1937, 34]
+"Ich bin Cario, der berühmte Verfasser von vielgelesenen Werken, die ich auf Grund meiner Arbeit und meines Studiums verfasst habe, ich untersuche die Gestirne und rühme die Namen der Sternbilder"
+
+----
+
+VerwandteArbeiten: "Ein im Jagdschloss Grunewald befindliches Bildnis des brandenburgischen Kurfürsten - 1529 datiert - aber erst 1903 erworben, ist in den Abmessungen nahezu identisch mit unserem Carion-Porträt." 
+
+[Vortrag, Rainer Michaelis am 17. Mai 1989 im Deutschen Saal des Bodemuseums aus Anlass der Übergabe der Dauerleihgabe]
+
+DE_smbGG_Leihgabe_FR177C_1989_Document_1a.pdf
+
+----
+
+Ausstellungsgeschichte: Berlin 1937, Nr. 84, Tafel 77
+Weimar 1972, Nr. 39, Tafel 91
+Basel 1974, Nr. 168, Tafel 130
+
+----

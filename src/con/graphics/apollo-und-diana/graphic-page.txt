@@ -1,0 +1,72 @@
+BildURL: http://lucascranach.org/thumbnails/BE_MRBAB_3930_FR270/01_Overall/BE_MRBAB_3930_FR270_2007-04-04_Overall.jpg
+
+----
+
+Oid: 405488
+
+----
+
+ObjectName: FR270
+
+----
+
+Inventarnummer: BE_MRBAB_3930
+
+----
+
+Title: Apollo und Diana
+
+----
+
+Link: apollo-und-diana
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1525
+
+----
+
+DateEnd: 1535
+
+----
+
+Longtext: Zentral im Bild sitzt Diana, Göttin des Mondes, der Jagd und der Keuschheit auf einem Hirsch, der gleichzeitig ihr Attribut ist. Neben Diana steht ihr Zwillingsbruder Apollo, der als Sonnengott, Gott der Künste und der Bogenschützen auch für moralische Stärke und physische Schönheit steht. Beide sind vor dichtem Laubwerk dargestellt, welches den Blick in eine bergige Landschaft mit einer Burg freigibt.
+[Herrschaft, cda 2015]
+
+----
+
+Classification: Malerei
+
+----
+
+Dimensions: Maße Bildträger: 45 x 31 cm 
+[http://www.opac-.fabritius.be, 20.01.2011]
+
+
+
+----
+
+Provenienz: - 08.11.1909 erworben auf der Versteigerung der Sammlung M. E. Féetis in Brüssel, lot 27
+[Friedländer, Rosenberg 1979, 126, No. 270]
+
+----
+
+MaterialTechnik: Malerei auf Holz
+[http://www.opac-.fabritius.be; 20.01.2011]
+
+----
+
+Ausstellungsgeschichte: Dresden 1899, Nr. 125
+Basel 1974, 658-659, Nr. 574
+Kronach, Leipzig 1994, 350, Nr. 173a
+Brüssel, Paris 2010/2011, 193, Nr. 106
+
+----

@@ -1,0 +1,72 @@
+BildURL: http://lucascranach.org/thumbnails/DE_KSVC_M304_FR-none/01_Overall/DE_KSVC_M304_FR-none_2008-05_Overall.jpg
+
+----
+
+Oid: 406097
+
+----
+
+ObjectName: FR-none
+
+----
+
+Inventarnummer: DE_KSVC_M304
+
+----
+
+Title: Martin Luther
+
+----
+
+Link: martin-luther
+
+----
+
+Zuschreibung: Lucas Cranach der Jüngere
+
+----
+
+Dated: 1575
+
+----
+
+DateBeginn: 1575
+
+----
+
+DateEnd: 1575
+
+----
+
+Longtext: "Luther in ganzer Figur, leicht nach links, im schwarzen Talar mit der Bibel in beiden Händen, in einem Arkadenbogen stehend."
+[Maedebach, Cat. Coburg 1969]
+
+----
+
+Classification: Malerei
+
+----
+
+Dimensions: Maße Bildträger: 216 x 94,4 x 2,3-2,8 cm
+[Cat. Coburg 2018, 182]
+
+
+----
+
+Provenienz: - 1574 in Auftrag gegeben von Kurfürst August von Sachsen. Ehemals im Schloß Annaburg (Sachsen-Anhalt)
+- 1948 "ein Stadtmuseum in der Ostzone" (=Schloss Annaberg)
+- 1948 Kunsthändler Herbert W. Klewer, Berlin
+-  24. Januar 1961: Gutachten von Prof. Dr. Cornelius Müller Hofstede, Direktor der Gemäldegalerie Berlin (Bildakten Kunstsammlungen der Veste Coburg)
+- 1961 Kunstsammlungen der Veste Coburg, Ankauf von Kunsthändler Herbert W. Klever, Victoria-Luise-Platz 12a, Berlin
+[Cat. Coburg 2018, 182, fns. 1, 2]
+
+----
+
+MaterialTechnik: Malerei auf Lindenholz
+[Maedebach, Cat. Coburg 1969]
+
+----
+
+Beschriftung: keine
+
+----

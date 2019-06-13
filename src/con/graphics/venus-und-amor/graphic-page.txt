@@ -1,0 +1,88 @@
+BildURL: http://lucascranach.org/thumbnails/BE_MRBAB_4759_FR246F/01_Overall/BE_MRBAB_4759_FR246F_2010-01_Overall.jpg
+
+----
+
+Oid: 405502
+
+----
+
+ObjectName: FR246F
+
+----
+
+Inventarnummer: BE_MRBAB_4759
+
+----
+
+Title: Venus und Amor
+
+----
+
+Link: venus-und-amor
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 1531
+
+----
+
+DateBeginn: 1531
+
+----
+
+DateEnd: 1531
+
+----
+
+Longtext: Vor dunklem Grund steht die nackte Göttin der Liebe. Am linken Bildrand ist der Baum angedeutet, aus dem ihr Sohn Amor gerade eine Honigwabe gestohlen hat und nun von den Bienen gestochen wird. Klagend wendet es sich seiner Mutter zu. Die belehrt ihn jedoch, dass seine Pfeile nicht minder verletzen, wie aus der Inschrift hervorgeht. 
+[Herrschaft, cda 2015]
+
+----
+
+RelatedWorks: - FR245
+
+----
+
+Classification: Malerei
+
+----
+
+Dimensions: Maße Bildträger: 176 x 80 cm 
+[http://www.opac-fabritius.be; 20.01.2011]
+
+
+
+----
+
+Provenienz: - 1928 Schenkung von Leon Cassel 
+[Exhib. Cat. Brussels 2010, 188]
+
+----
+
+MaterialTechnik: Malerei übertragen von Holz auf Leinwand
+[http://www.opac-fabritius.be; 20.01.2011]
+
+----
+
+Beschriftung: - Oben rechts: 
+"DV/PVER ALVEOLO FVRATVR MELLA CVPIDO. / FVRANTI DIGITV CVSPITE FIXIT APIS. / SIC ETIA NOBIS BREVIS ET PERITVRA VOLVPTAS / QVA PETIMVS TRISTI PIXTA DOLORE NOCET"
+[http://www.opac-fabritius.be; 20.01.2011]
+
+Übersetzung der Beschriftung:
+"Während sich der Knabe Cupido aus einer Höhlung Honig stielt, stach die Biene den Dieb mit dem Stachel in den Finger. So schadet auch uns die kurze und vergängliche Wollust, die wir begehren: mit Schmerz ist sie vermischt"
+
+[Exhib. Cat. Brussels 2010, 188]
+
+----
+
+VerwandteArbeiten: - FR245
+
+----
+
+Ausstellungsgeschichte: Brüssel, Paris 2010/2011, Nr.98
+
+----

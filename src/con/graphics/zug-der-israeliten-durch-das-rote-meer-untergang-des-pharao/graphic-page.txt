@@ -1,0 +1,83 @@
+BildURL: http://lucascranach.org/thumbnails/DE_BStGS_4558_FR203/01_Overall/DE_BStGS_4558_FR203_2006_Overall.jpg
+
+----
+
+Oid: 346204
+
+----
+
+ObjectName: FR203
+
+----
+
+Inventarnummer: DE_BStGS_4558
+
+----
+
+Title: Zug der Israeliten durch das Rote Meer (Untergang des Pharao)
+
+----
+
+Link: zug-der-israeliten-durch-das-rote-meer-untergang-des-pharao
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 1530
+
+----
+
+DateBeginn: 1530
+
+----
+
+DateEnd: 1530
+
+----
+
+Longtext: In der rechten Bildhälfte das im Meer untergehende Heer des Pharao, links vor zoomorph gestalteten Felsen die Israeliten mit Moses, der angeregt mit dem Engel spricht.
+
+[Bayerische Staatsgemäldesammlungen, revised 2010]
+
+----
+
+RelatedWorks: Gegenstück (?):
+- DE_BStGS_4557_FR208
+
+----
+
+Classification: Malerei
+
+----
+
+Dimensions: Maße Bildträger: 83,2 x 118,8 x 0,5 cm
+(aufgedoppelt, auf 1,9 cm verstärkt)
+[Bayerische Staatsgemäldesammlungen, revised 2010]
+
+
+
+----
+
+Provenienz: - 1637 im Alten Schloss Schleißheim nachweisbar
+[Exhib. Cat. Munich 2011, 139, No. 4558]
+
+----
+
+MaterialTechnik: Malerei auf Lindenholz (augenscheinlich)
+[Bayerische Staatsgemäldesammlungen, revised 2010]
+[Exhib. Cat. Munich 2011, 139, No. 4558]
+
+----
+
+VerwandteArbeiten: Gegenstück (?):
+- DE_BStGS_4557_FR208
+
+----
+
+Ausstellungsgeschichte: München 2005
+München 2011, Kat. Nr. 13
+
+----

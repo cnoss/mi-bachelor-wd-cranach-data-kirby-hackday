@@ -1,0 +1,89 @@
+BildURL: http://lucascranach.org/thumbnails/DE_BStGS_4563_FR381K/01_Overall/DE_BStGS_4563_FR381K_2011_Overall.jpg
+
+----
+
+Oid: 346209
+
+----
+
+ObjectName: FR381K
+
+----
+
+Inventarnummer: DE_BStGS_4563
+
+----
+
+Title: Der Schmerzensmann
+
+----
+
+Link: der-schmerzensmann
+
+----
+
+Zuschreibung: Werkstatt Lucas Cranach der Ältere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1537
+
+----
+
+DateEnd: 1550
+
+----
+
+Longtext: Christus steht in ganzer Figur vor einer Landschaft mit Buschwerk. Sein Körper ist mit Wunden und Striemen übersät, aus denen Blut fließt. Dazu trägt er die Dornenkrone. Kleine Engel umgeben ihn am wolkigen Himmel.
+[vgl. Exhib. Cat. Munich 2011, 110, No. 22]
+
+----
+
+RelatedWorks: Brett II ist aus demselben Baum gearbeitet wie folgende Bretter:
+
+- DE_HAUMB_GG715_FR408A (Brett I)
+- DE_HAUMB_GG716_FR408A (Bretter II, IV, V, VI)
+- "Tod des Melanchthon", Oldenburg 39 (Brett II)
+
+----
+
+Classification: Malerei
+
+----
+
+Dimensions: Maße Bildträger: 74,9 x 56,7 cm
+(Tafel aufgedoppelt)
+[Bayerische Staatsgemäldesammlungen, revised 2010]
+
+
+
+----
+
+Provenienz: - 1804 erworben als Säkularisationsgut aus der Domsakristei in Würzburg
+[Bayerische Staatsgemäldesammlungen, revised 2010]
+[Exhib. Cat. Munich 2011, 139, No. 4563]
+
+----
+
+MaterialTechnik: Malerei auf Buchenholz (Fagus sp.)
+[Klein, Bericht 2014]
+[Exhib. Cat. Munich 2011, 139, No. 4563]
+[Bayerische Staatsgemäldesammlungen, revised 2010]
+
+----
+
+VerwandteArbeiten: Brett II ist aus demselben Baum gearbeitet wie folgende Bretter:
+
+- DE_HAUMB_GG715_FR408A (Brett I)
+- DE_HAUMB_GG716_FR408A (Bretter II, IV, V, VI)
+- "Tod des Melanchthon", Oldenburg 39 (Brett II)
+
+----
+
+Ausstellungsgeschichte: München 2011, Kat. Nr. 22
+
+----

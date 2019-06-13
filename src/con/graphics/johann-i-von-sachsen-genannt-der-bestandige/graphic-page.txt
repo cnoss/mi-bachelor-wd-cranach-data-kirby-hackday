@@ -1,0 +1,126 @@
+BildURL: http://lucascranach.org/thumbnails/DE_KSVC_M165_FR338C/01_Overall/DE_KSVC_M165_FR338C_2010-09_Overall.jpg
+
+----
+
+Oid: 406208
+
+----
+
+ObjectName: FR338C
+
+----
+
+Inventarnummer: DE_KSVC_M165
+
+----
+
+Title: Johann I. von Sachsen, genannt der Beständige
+
+----
+
+Link: johann-i-von-sachsen-genannt-der-bestandige
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 1532
+
+----
+
+DateBeginn: 1532
+
+----
+
+DateEnd: 1532
+
+----
+
+Longtext: Das posthum angefertigte Porträt Kurfürst Johann findet sein Gegenstück im Coburger Bildnis Friedrich III. von Sachsen (Inv. Nr. M164. Der Porträtierte ist im Dreiviertelprofil seinem Bruder zugewandt, differenziert wird vor allem in der dunkleren Farbe von Bart- und Haartracht. Johann trägt als sächsischer Landesherr den Kurfürstenring am Zeigefinger der rechten Hand. Seine Hände liegen auf einem schwarzen, brüstungsähnlichen Balken auf, auf dem ein zweispaltiger Druck in 38 Zeilen Name, Amt und Vita des Kurfürsten in Reimform fasst.
+[Exhib. Cat. Coburg 2010, 153]
+
+----
+
+RelatedWorks: - DE_KSW_G7_FR-none
+- DE_KSW_G8_FR-none
+
+----
+
+Classification: Malerei
+
+----
+
+Dimensions: Maße Bildträger: 61,3 x 37,5 x 0,9 cm (Originalplatte) 1,7 cm (mit aufgedoppelter Platte)
+[Cat. Coburg 2018, 14)]
+
+
+----
+
+Provenienz: - Gotha, Kunstkammer Schloss Friedenstein, Gemäldegalerie
+- 1856 Herzogliche Kunst- und Altertümersammlung der Veste Coburg (HKA)
+- 1919 Kunstsammlungen der Veste Coburg (KVC)
+- 1921 im Fürstenbau der Veste Coburg ausgestellt
+[Cat. Coburg 2018, 149]
+
+----
+
+MaterialTechnik: Malerei auf Lindenholz
+[Exhib. Cat. Coburg 2010, 153]
+
+----
+
+Beschriftung: Auf Papier gedruckter Schriftsatz in 38 Zeilen:
+
+"Johans der erst / Churfurst
+Und Herzog zu Sachssen 
+
+Nach meines lieben bruders end /
+Bleib auff mir das gantz Regimend.
+Mit grosser sorg vnd mancher fahr
+Da der Bawr toll vnd töricht war
+Die auffrhur fast inn allem land/
+Wie gros fewer im wald entbrand.
+Welches ich halff dempfen mit Gott
+Der Deudschen land erret aus not.
+Der Rottengeister feind ich war/
+Hielt im land das wort rein und klar.
+Gros drawen / bittern haß und neid 
+Umb Gottes worts willen ich leid.
+Frey bekand ichs aus hertzem grund
+Und personlich selbst ich da stund.
+Vor dem Kaiser vnd gantzen Reich/
+Von fursten gschach vor nie des gleich
+Solchs gab mir mein Gott besunder 
+Des fast die gantze welt nahm wunder
+Drob land und leute bringen mich/
+Hofft beide freund vnd feind gewislich
+Ferdinand zu Römischem König gemach/
+Und sein wahl ich allein anfacht.
+Auff das / das alte Recht bestünd
+Inn der gülden Bullen gegründ.
+Wiewol das grossen zorn erregt
+Mich doch mehr recht denn gunst bewegt
+Das hertz gab Gott dem Kaiser zart/
+Mein guter freund / zu letzt er ward.
+Das ich mein end im frid beschlos/
+Daß sehr den Teuffel das verdros
+Erfarn hab ichs vnd zeugen thar/
+Wie vns die schrifft sagt vnd ist war.
+Wer Gott mit ernst vertrawen kann/
+Der bleibt ein vnverdorben man.
+Es zürne Teuffel odder welt/
+So stirbter doch zu letzt als Helt"
+
+----
+
+VerwandteArbeiten: - DE_KSW_G7_FR-none
+- DE_KSW_G8_FR-none
+
+----
+
+Ausstellungsgeschichte: Coburg 1972 2f., Nr. 20
+Coburg 2010, Nr. 166
+
+----

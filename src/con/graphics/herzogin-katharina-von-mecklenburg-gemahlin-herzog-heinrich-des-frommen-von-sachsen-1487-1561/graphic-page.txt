@@ -1,0 +1,75 @@
+BildURL: http://lucascranach.org/thumbnails/DE_KSVC_M036_FR-none/01_Overall/DE_KSVC_M036_FR-none_Overall.jpg
+
+----
+
+Oid: 405947
+
+----
+
+ObjectName: FR-none
+
+----
+
+Inventarnummer: DE_KSVC_M036
+
+----
+
+Title: Herzogin Katharina von Mecklenburg, Gemahlin Herzog Heinrich des Frommen von Sachsen (1487-1561)
+
+----
+
+Link: herzogin-katharina-von-mecklenburg-gemahlin-herzog-heinrich-des-frommen-von-sachsen-1487-1561
+
+----
+
+Zuschreibung: Lucas Cranach der Jüngere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1525
+
+----
+
+DateEnd: 1540
+
+----
+
+Longtext: Die Dargestellte wird als Halbfigur, nach rechts gewandt, vor dunkelblauem Grund gezeigt. Sie trägt ein schwarzes Kleid mit abgesetzten weißen Ärmeln, deren volumiöser Stoff durch mehrere Brokatbänder unterteilt wird. Den Hals schmücken zwei Reife, eine Kette und ein großes Amulett, das die Buchstaben MK (ligiert) zu zeigen scheint. Das Haar verhüllt ein in Gold- und Silberfarben kariertes Haarnetz unter einem breitkrempigen Hut mit Brokatmuster, an dessen Ränder kleine Talismänner (Anker, Sanduhr, Krug, Schiff, Buch(?), Horn) baumeln.
+[Görres, cda 2016]
+
+----
+
+Classification: Malerei
+
+----
+
+Dimensions: Maße Bildträger: 54 x 38,5 x 1 cm 
+[Cat. Coburg 2018, 136]
+
+
+----
+
+Provenienz: - Gotha, Kunstkammer Schloss Friedenstein, Gemäldegalerie
+- 1856 Herzogliche Kunst- und Altertümersammlung der Veste Coburg (HKA)
+- 1919 Kunstsammlungen der Veste Coburg (KVC) 
+[Cat. Coburg 2018, 136]
+
+----
+
+MaterialTechnik: Malerei auf Buchenholz
+[Cat. Coburg 2018, 136]
+
+----
+
+Beschriftung: keine
+
+----
+
+Ausstellungsgeschichte: Erfurt 1903, Nr. 89
+Stuttgart 2007
+
+----

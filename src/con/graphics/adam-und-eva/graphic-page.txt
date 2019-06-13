@@ -1,0 +1,87 @@
+BildURL: http://lucascranach.org/thumbnails/DE_BStGS_720_FR043/01_Overall/DE_BStGS_720_FR043_2005_Overall.jpg
+
+----
+
+Oid: 346176
+
+----
+
+ObjectName: FR043
+
+----
+
+Inventarnummer: DE_BStGS_720
+
+----
+
+Title: Adam und Eva
+
+----
+
+Link: adam-und-eva
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1510
+
+----
+
+DateEnd: 1519
+
+----
+
+Longtext: Auf dem Gemälde sind Adam und Eva vor dunklem Hintergrund dargestellt. Beide halten einen Apfel in ihrer jeweils rechten Hand und sind einander zugewandt. Zwischen beiden steht der Baum, um dessen Ast sich die Schlange windet.
+
+----
+
+RelatedWorks: - Variante 1508-10, Musée des Beaux Arts et d"Archeologie Besancon
+[F_MBAAB_896-1-54a]
+[F_MBAAB_896-1-54b]
+
+----
+
+Classification: Malerei
+
+----
+
+Dimensions: Maße Bildträger: 47,2 x 35,3 cm
+[Bayerische Staatsgemäldesammlungen, revised 2010]
+[Exhib. Cat. Munich 2011, 136, No. 720]
+[Friedländer, Rosenberg 1979, 78, No. 43]
+
+
+
+----
+
+Provenienz: - 1818 aus der Sammlung von König Max I. Joseph erworben
+
+[Bayerische Staatsgemäldesammlungen, revised 2010]
+[Exhib. Cat. Munich 2011, 136, No. 720]
+
+----
+
+MaterialTechnik: Malerei auf Lindenholz (Tilia sp.)
+[Klein, Bericht 2013]
+[Exhib. Cat. Munich 2011, 136, No. 720]
+[Bayerische Staatsgemäldesammlungen, revised 2010]
+[Friedländer, Rosenberg 1979, 78, No. 43]
+
+----
+
+VerwandteArbeiten: - Variante 1508-10, Musée des Beaux Arts et d"Archeologie Besancon
+[F_MBAAB_896-1-54a]
+[F_MBAAB_896-1-54b]
+
+----
+
+Ausstellungsgeschichte: Kronach und Veste Coburg 1953, Kat.-Nr. 1
+
+----

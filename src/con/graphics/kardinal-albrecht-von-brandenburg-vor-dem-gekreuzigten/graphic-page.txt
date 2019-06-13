@@ -1,0 +1,84 @@
+BildURL: http://lucascranach.org/thumbnails/DE_BStGS_3819_FR183/01_Overall/DE_BStGS_3819_FR183_2006_Overall.jpg
+
+----
+
+Oid: 346196
+
+----
+
+ObjectName: FR183
+
+----
+
+Inventarnummer: DE_BStGS_3819
+
+----
+
+Title: Kardinal Albrecht von Brandenburg vor dem Gekreuzigten
+
+----
+
+Link: kardinal-albrecht-von-brandenburg-vor-dem-gekreuzigten
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 1520
+
+----
+
+DateBeginn: 1520
+
+----
+
+DateEnd: 1525
+
+----
+
+Longtext: Kardinal Albrecht von Brandenburg kniet links im Bild am Boden, ins Halbprofil nach rechts gewendet. Rechts Christus am Kreuz, links eine Birke, der Himmel verfinstert sich; im Hintergrund ein Ausblick in eine Landschaft.
+
+----
+
+RelatedWorks: - Marienaltar der Marienkiche in Halle (1529 [datiert])
+
+----
+
+Classification: Malerei
+
+----
+
+Dimensions: Maße Bildträger: 158,4 x 112,4 x 2,2 cm
+[Bayerische Staatsgemäldesammlungen, revised 2010]
+
+
+
+----
+
+Provenienz: - bis 1540 Stiftskirche Halle, danach Überführung nach Aschaffenburg, spätestens 1545 wohl in Aschaffenburger Stiftskirche St. Peter und Alexander 
+[Exhib. Cat. Munich 2011, 108, No. 21]
+
+- 1829 aus der Stiftskirche zu Aschaffenburg ausgeschieden, dem Verkauf übergeben und vom Staat erworben
+
+[Bayerische Staatsgemäldesammlungen, revissed 2010]
+[Exhib. Cat. Munich 2011, 138, No. 3819]
+
+----
+
+MaterialTechnik: Malerei auf Tannenholz (Abies alba)
+[Klein, Report 2013]
+[Exhib. Cat. Munich 2011, 138, No. 3819]
+[Bayerische Staatsgemäldesammlungen, revised 2010]
+
+----
+
+VerwandteArbeiten: - Marienaltar der Marienkiche in Halle (1529 [datiert])
+
+----
+
+Ausstellungsgeschichte: Dresden 1899
+Berlin 1937
+
+----

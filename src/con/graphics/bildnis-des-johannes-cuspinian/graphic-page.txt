@@ -1,0 +1,77 @@
+BildURL: http://lucascranach.org/thumbnails/CH_SORW_1925-1b_FR006/01_Overall/CH_SORW_1925-1b_FR006_2008-11_Overall.jpg
+
+----
+
+Oid: 345908
+
+----
+
+ObjectName: FR006
+
+----
+
+Inventarnummer: CH_SORW_1925-1b
+
+----
+
+Title: Bildnis des Johannes Cuspinian
+
+----
+
+Link: bildnis-des-johannes-cuspinian
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 1502
+
+----
+
+DateBeginn: 1502
+
+----
+
+DateEnd: 1502
+
+----
+
+Longtext: Brustbildnis des Historiographen Dr. Johannes Cuspinian (eigentlich Spiessheimer)
+Teil eines Diptychons (Gegenstück zum Bildnis der Anna Cuspinian)
+
+----
+
+Classification: Malerei
+
+----
+
+Dimensions: Maße Bildträger: 60,3 x 45,5 x 0,45-0,55 cm (Format nahezu original)
+
+
+
+----
+
+Provenienz: - Sammlung Charles I, König von England
+- Familie Locker-Lampson, England 
+- Baron of Sandys, England
+- Kunsthandel  A. -G., Luzern, Julius Böhler gall.
+- 1925 durch Reinhart erworben
+
+----
+
+MaterialTechnik: Malerei auf Fichtenholz (Picea sp.)
+
+----
+
+Beschriftung: Ein gemaltes Allianzwappen der Familien Spiessheimer (latinisiert Cuspinianus) und Putsch auf der Rückseite fragmentarisch erhalten
+
+----
+
+Ausstellungsgeschichte: Bern 1939-1940, Nr. 62-63, Taf. III
+Zürich 1940-1941, Nr. 39-40, Taf. XI-XII
+Winterthur 1955, Nr. 42-43, Taf. V.
+Kronach 1994, Nr. 118
+
+----

@@ -1,0 +1,70 @@
+BildURL: http://lucascranach.org/thumbnails/DE_BStGS_1130_FR285E/01_Overall/DE_BStGS_1130_FR285E_2010_Overall.jpg
+
+----
+
+Oid: 346178
+
+----
+
+ObjectName: FR285E
+
+----
+
+Inventarnummer: DE_BStGS_1130
+
+----
+
+Title: Der verliebte Alte ("Ungleiche Liebe")
+
+----
+
+Link: der-verliebte-alte-ungleiche-liebe
+
+----
+
+Zuschreibung: Werkstatt Lucas Cranach der Ältere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1520
+
+----
+
+DateEnd: 1540
+
+----
+
+Longtext: Das Gemälde zeigt einen alten Mann in Pelzkleidung, dessen linke Hand auf der Schulter einer jungen Frau liegt. Diese schaut ihn mit verschränkten Armen an. Die Ärmel ihres Kleides weisen zahlreiche Dekorationsschlitze auf, dazu trägt sie eine netzartige Haube und ein Halsband.
+
+----
+
+Classification: Malerei
+
+----
+
+Dimensions: Maße Bildträger: 87 x 60 cm
+[Bayerische Staatsgemäldesammlungen, revised 2010]
+
+
+
+----
+
+Provenienz: - Aus der Herzoglichen Kunstkammer München
+
+[Bayerische Staatsgemäldesammlungen, revised 2010]
+
+----
+
+MaterialTechnik: Malerei auf Lindenholz (Tilia sp.)
+[Klein, Bericht 2013]
+[Bayerische Staatsgemäldesammlungen, revised 2010]
+
+----
+
+Ausstellungsgeschichte: München 2011, Nr. 30
+
+----

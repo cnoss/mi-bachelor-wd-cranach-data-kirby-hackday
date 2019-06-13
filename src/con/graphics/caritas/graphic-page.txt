@@ -1,0 +1,65 @@
+BildURL: http://lucascranach.org/thumbnails/BE_MRBAB_4849_FR-none/01_Overall/BE_MRBAB_4849_FR-none_2007-04-04_Overall.jpg
+
+----
+
+Oid: 405522
+
+----
+
+ObjectName: FR-none
+
+----
+
+Inventarnummer: BE_MRBAB_4849
+
+----
+
+Title: Caritas
+
+----
+
+Link: caritas
+
+----
+
+Zuschreibung: Lucas Cranach der Jüngere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1535
+
+----
+
+DateEnd: 1545
+
+----
+
+Longtext: Die Tafel zeigt die Caritas, die Personifikation der Mutter- und Nächstenliebe als sitzende weibliche Figur, die eines ihrer Kinder stillt. Die Figur sitzt auf einem grauen Steinblock, der die Inschrift "CARITAS" trägt. Ihren Körper umhüllt ein durchsichtiger Schleier. Neben ihr auf dem Steinblock steht ein weiteres ihrer insgesamt fünf nackten Kinder und reicht Trauben zu seinen Geschwistern hinab. Die beiden Jungen und das Mädchen haben bereits weitere Trauben in Händen und stehen auf dem grauen steinigen Boden, der nach hinten von einer Hecke begrenzt wird. Diese umfängt die Figuren und erlaubt zudem den Blick in eine weite Landschaft. Am oberen Bildrand ragt der einzelne Zweig eines Apfelbaums in das Bild.
+
+----
+
+Classification: Malerei
+
+----
+
+Dimensions: Maße Bildträger: 63,5 x 57,6 cm (mit Ergänzungen)
+
+[http://www.opac-fabritius.be; 20.01.2011]
+
+
+
+----
+
+MaterialTechnik: Malerei auf Holz
+[http://www.opac-fabritius.be; 20.01.2011]
+
+----
+
+Beschriftung: - Links auf der Steinplatte: 
+"CARITAS"
+
+----

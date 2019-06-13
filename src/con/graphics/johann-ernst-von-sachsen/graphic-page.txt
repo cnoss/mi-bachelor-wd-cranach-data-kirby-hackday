@@ -1,0 +1,68 @@
+BildURL: http://lucascranach.org/thumbnails/DE_KSVC_M138_FR-none/01_Overall/DE_KSVC_M138_FR-none_2011-10_Overall.jpg
+
+----
+
+Oid: 406179
+
+----
+
+ObjectName: FR-none
+
+----
+
+Inventarnummer: DE_KSVC_M138
+
+----
+
+Title: Johann Ernst von Sachsen
+
+----
+
+Link: johann-ernst-von-sachsen
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1581
+
+----
+
+DateEnd: 1600
+
+----
+
+Longtext: Bildnis von Johann Ernst, Fürst von Sachsen (1521-1553) in Halbfigur nach links gewandt.
+[cda 2015]
+
+----
+
+Classification: Malerei
+
+----
+
+Dimensions: Maße Bildträger: 55 x 50,5 x 1,1 cm 
+[Cat. Coburg 2018, 154]
+
+
+----
+
+Provenienz: - Herzoglicher Besitz, Coburg, Schloss Ehrenburg
+- 1856 Herzogliche Kunst- und Altertümersammlung der Veste Coburg (HKA)
+- 1919 Kunstsammlungen der Veste Coburg (KVC) 
+[Cat. Coburg 2018, 154]
+
+----
+
+MaterialTechnik: Malerei auf Tannenholz
+[Cat. Coburg 2018, 154]
+
+----
+
+Beschriftung: - oben rechts:
+"Ioannes Ernestus/ Dux Saxoniae"
+[Cat. Coburg 2018, 154]
+
+----

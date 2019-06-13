@@ -1,0 +1,60 @@
+BildURL: http://lucascranach.org/thumbnails/BE_MRBAB_2627_FR357C/01_Overall/BE_MRBAB_2627_FR357C_2010-01_Overall.jpg
+
+----
+
+Oid: 405478
+
+----
+
+ObjectName: FR357C
+
+----
+
+Inventarnummer: BE_MRBAB_2627
+
+----
+
+Title: Eva
+
+----
+
+Link: eva
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1537
+
+----
+
+DateEnd: 1553
+
+----
+
+Longtext: Die nahezu lebensgroße Darstellung zeigt Eva als nackte Ganzfigur, nach links gewandt. Während sie mit der rechten Hand einen schon angebissenen Apfel präsentiert, ist ihre linke Hand, ebenfalls einen Apfel tragend, in die Hüfte gestemmt. Eva steht auf ihrem linken Bein, das rechte ist um das Standbein geschlungen. Angeschnitten am linken Bildrand ist der Baum der Erkenntnis zu sehen, der zur Tafel des Adam, die das Gegenstück bildet, überleitet. Die Schlange windet sich im Geäst des Baumes, ein Hirsch hat sich hinter Eva niedergelassen, nach hinten schließt der Bildraum mit Buschwerk ab.
+[Görres, cda 2016]
+
+----
+
+Classification: Malerei
+
+----
+
+Dimensions: Maße Bildträger: 175,3 x 67,4 cm 
+[Heydenreich, CDA 2011]
+
+
+
+----
+
+MaterialTechnik: Malerei auf Holz
+[http://www.opac-.fabritius.be; 20.01.2011]
+
+----

@@ -1,0 +1,107 @@
+BildURL: http://lucascranach.org/thumbnails/DE_KSVC_M162_FR121/01_Overall/DE_KSVC_M162_FR121_2010-09_Overall.jpg
+
+----
+
+Oid: 406010
+
+----
+
+ObjectName: FR121
+
+----
+
+Inventarnummer: DE_KSVC_M162
+
+----
+
+Title: Der Selbstmord der Lukretia
+
+----
+
+Link: der-selbstmord-der-lukretia
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1513
+
+----
+
+DateEnd: 1524
+
+----
+
+Longtext: Das Gemälde zeigt die antike Heldin Lucretia als stehenden Akt in Dreiviertelfigur.  Die Augen ihres leicht zur linken Seite geneigten Kopfes blicken ins Leere, während ihre rechte Hand mit dem Dolch sich gegen sie richtet. Der lange Dolch hat sie mittig unterhalb der Brüste bereits leicht verletzt. Die Hand ihres linken, erhobenen Armes hält sie vor sich. 
+Ein durchsichtiger Schleier liegt über ihren Schultern und wird von einem Windhauch zur rechten Bildseite geweht, wobei er ihre Scham bedeckt.  Als einziges Schmuckstück trägt sie ein Armband. Ebenso schlicht ist ihre Frisur - zwei seitliche Haarknoten mit einigen losen Strähnen.
+Im Hintergrund ist ein Interieur angedeutet. Im rechten Hintergrund ist undeutlich ein roter Vorhang zu erkennen, im linken Hintergrund befindet sich ein Fenster. Es gibt den Ausblick zu einer bewaldeten Landschaft mit einem Fluss und zwei Burgen frei. Unter dem Fenster liegt die abgelegte Schaube, pelzverbrämte und grün ist. 
+[Herrschaft, CDA 2010]
+
+Der Legende nach lebte Lucretia im 6. Jh. v. Chr. und war die schöne und tugendhafte Frau des Römers Collatinus. In sie verliebte sich der Sohn des Römischen Königs - Sextus Tarquinius. Bei einem Aufenthalt in ihrem Haus drohte Sextus, sie zu töten und ihre Ehre zu beflecken, wenn sie sich ihm nicht hingab. Nach der Vergewaltigung ließ Lucretia  ihren Mann und ihren Vater Rache schwören und erdolchte sich. Das Geschehene führte zum Volksaufstand, in dem die Königsfamilie gestürzt und das Römische Reich zur Republik wurde.
+Als Inbegriff weiblicher Tugendhaftigkeit, Keuschheit, Treue und Ehre erfreute sich die Darstellung der Lucretia besonders im 16. Jh. großer Beliebtheit.
+[Literatur zum Thema: Bierende 2002, Follak 2002, Livius 1909]
+
+----
+
+RelatedWorks: - Lucas Cranach d. Ä oder d. J, um 1537 - 1540, 75,5 x 57,5 cm, Privatsammlung 
+[Exhib. Cat. Basel 1974, 666, No. 583]
+
+----
+
+Classification: Malerei
+
+----
+
+Dimensions: Maße Bildträger: 85,5 x 57,5 x 1,2 cm
+[Cat. Coburg 2018, 94]
+[Friedländer, Rosenberg 1979, 94, No. 121] 
+[Maedebach, Cat. Coburg 1969]
+1 Fuß 6 Zoll x 1 Fuß 1 Zoll 
+[Schuchardt 1851 A, 37, No. 70]
+
+
+----
+
+Provenienz: - 1851 nachweislich im Schloss Coburg; Herzoglicher Besitz, Coburg
+[Schuchardt 1851 A, 37, No. 70]
+- 1876 Herzogliche Kunst- und Altertümersammlungen der Veste Coburg (HKA)
+- 1919 Kunstsammlungen der Veste Coburg (KVC)
+- 1921 ausgestellt in den Wohnräumen im Fürstenbau der Veste Coburg
+- April 1945 bis August 1947 kriegsbedingt ausgelagert in Kloster Banz
+[Cat. Coburg 2018, 94]
+
+----
+
+MaterialTechnik: Malerei auf Buchenholz
+[Cat. Coburg 2018, 94]
+Malerei auf Lindenholz
+[Friedländer, Rosenberg 1979, 94, No. 121]
+[Maedebach, Cat. Coburg 1969]
+[Posse 1942, 57, No. 43]
+Rotbuchenholz
+[Maedebach, Exhib. Cat. Coburg 1972, No. 10]
+
+----
+
+Beschriftung: keine
+
+----
+
+VerwandteArbeiten: - Lucas Cranach d. Ä oder d. J, um 1537 - 1540, 75,5 x 57,5 cm, Privatsammlung 
+[Exhib. Cat. Basel 1974, 666, No. 583]
+
+----
+
+Ausstellungsgeschichte: Dresden 1899, Nr. 86 
+Berlin 1937, Nr. 35
+Coburg 1969
+Coburg 1972, Nr. 10
+Rom 2010, Nr. 24
+
+----

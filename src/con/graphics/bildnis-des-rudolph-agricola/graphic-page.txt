@@ -1,0 +1,70 @@
+BildURL: http://lucascranach.org/thumbnails/DE_BStGS_9363_FR310/01_Overall/DE_BStGS_9363_FR310_2005_Overall.jpg
+
+----
+
+Oid: 346248
+
+----
+
+ObjectName: FR310
+
+----
+
+Inventarnummer: DE_BStGS_9363
+
+----
+
+Title: Bildnis des Rudolph Agricola
+
+----
+
+Link: bildnis-des-rudolph-agricola
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1527
+
+----
+
+DateEnd: 1537
+
+----
+
+Longtext: Das Brustbild Rudolph Agricolas zeigt ihn zur rechten Bildseite gewandt, sein Blick folgt dieser Richtung. Seine schwarze Kleidung bildet einen deutlichen Kontrast zum hellblauen Hintergrund.
+
+----
+
+Classification: Malerei
+
+----
+
+Dimensions: Maße Bildträger: 29,9 x 23 cm
+(allseitig beschnitten)
+[Bayerische Staatsgemäldesammlungen, revised 2010]
+[Exhib. Cat. Munich 2011, 133, No. 9363]
+
+
+
+----
+
+Provenienz: - 1926 durch Ankauf in Genf erworben
+[Bayerische Staatsgemäldesammlungen, revised 2010]
+[Exhib. Cat. Munich 2011, 133, No. 9363]
+
+----
+
+MaterialTechnik: Malerei auf Buchenholz (Fagus sylvatica)
+[Exhib. Cat. Munich 2011, 133, No. 9363]
+[Bayerische Staatsgemäldesammlungen, revised 2010]
+[Klein, Report 1992]
+[Friedländer, Rosenberg 1979, 130, No. 310]
+
+----

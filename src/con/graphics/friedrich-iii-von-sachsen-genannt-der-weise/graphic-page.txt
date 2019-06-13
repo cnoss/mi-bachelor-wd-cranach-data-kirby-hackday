@@ -1,0 +1,112 @@
+BildURL: http://lucascranach.org/thumbnails/DE_KSVC_M164_FR338C/01_Overall/DE_KSVC_M164_FR338C_2010-09_Overall.jpg
+
+----
+
+Oid: 406050
+
+----
+
+ObjectName: FR338C
+
+----
+
+Inventarnummer: DE_KSVC_M164
+
+----
+
+Title: Friedrich III. von Sachsen, genannt der Weise
+
+----
+
+Link: friedrich-iii-von-sachsen-genannt-der-weise
+
+----
+
+Zuschreibung: Werkstatt Lucas Cranach der Ältere
+
+----
+
+Dated: 1532
+
+----
+
+DateBeginn: 1532
+
+----
+
+DateEnd: 1532
+
+----
+
+Longtext: Das Porträt findet sein Gegenstück im Coburger Bildnis Johanns des Beständigen (Inv. Nr. M165). Das Porträt zeigt den sächsischen Kurfürst Friedrich den Weisen in Halbfigur nach rechts. Der Fürst erscheint auf der posthumen Darstellung im Dreiviertelprofil vor blauem Grund. Schlicht gekleidet trägt er lediglich ein weißes, hochgeschlossenes Hemd, ein schwarzes, rund ausgeschnittenes Wams, eine Schaube mit Pelzkragen sowie ein schwarzes Barett. Einziges Würdezeichen ist der Kurfürstenring am Zeigefinger der rechten Hand. Die Hände Friedrichs liegen auf dem unteren Bildteil, welcher in durchgehendem schwarz gehalten ist. Darauf klebt ein Schriftsatz, der in achtzehn Zeilen Name, Amt und Vita des Kürfürsten in Reimen darstellt.
+[Exhib. Cat. Coburg 2010, 152]
+
+----
+
+RelatedWorks: - DE_KSW_G7_FR-none 
+- DE_KSW_G8_FR-none
+
+----
+
+Classification: Malerei
+
+----
+
+Dimensions: Maße Bildträger: 61,7 x 38,2 x 0,6 cm  (Originalplatte)/ 1,9 cm (mit aufgedoppelter Platte)
+[Cat. Coburg 2018, 148]
+Maße Bildträger: 61,3 x 38,3 cm
+[Maedebach, Exhib. Cat. Coburg 1972, No. 20]
+
+
+----
+
+Provenienz: - Gotha, Kunstkammer Schloss Friedenstein, Gemäldegalerie
+- 1856 Herzogliche Kunst- und Altertümersammlung der Veste Coburg (HKA)
+- 1919 Kunstsammlungen der Veste Coburg (KVC)
+- 1921 im Fürstenbau der Veste Coburg ausgestellt
+- April 1945 bis August 1947 kriegsbedingt ausgalagert auf Kloster Banz 
+[Cat. Coburg 2018, 148]
+
+----
+
+MaterialTechnik: Malerei auf Lindenholz
+[Exhib. Cat. Coburg 2010, 152]
+
+----
+
+Beschriftung: Aufgeklebter Papier (Vergé) mit gedrucktem Schriftsatz in achtzehn Zeilen:
+
+"Friderich der drit /Churfurst
+Und Herzog zu Sachssen
+
+Fridrich bin ich billig genant / 
+Schönen fried ich erhielt im land. / 
+Durch gros vernunfft / gedult vnd glück / 
+Widder manchen erzbösen tück. 
+Das land ich zieret mit gebew / 
+Und stifft ein hohe Schul auffs new
+ Zu wittemberg im Sachssen land 
+ Inn der welt die waard bekand /
+ Denn aus der selb kam Gottes wort 
+ Und tehr gros ding an manchem ort.  
+Das Bepstlich Reich schlagt es nider / 
+Und bracht rechten glauben widder. 
+ Zum Kaisar ward erkorn ich / 
+Des mein alter beschweret sich. 
+Dafür ich Kaisar Carl ernant 
+Von dem mich nicht wandt"
+
+wohl aus dem 18. Jahrhundert
+[Cat. Coburg 2018, 148]
+
+----
+
+VerwandteArbeiten: - DE_KSW_G7_FR-none 
+- DE_KSW_G8_FR-none
+
+----
+
+Ausstellungsgeschichte: Coburg 1972,  2f., Nr. 20
+Coburg 2010, Nr. 166
+
+----

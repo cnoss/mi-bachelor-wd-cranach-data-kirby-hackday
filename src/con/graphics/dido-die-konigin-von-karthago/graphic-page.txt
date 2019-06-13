@@ -1,0 +1,95 @@
+BildURL: http://lucascranach.org/thumbnails/DE_KSVC_M039_FR-none/01_Overall/DE_KSVC_M039_FR-none_2010-09_Overall.jpg
+
+----
+
+Oid: 406162
+
+----
+
+ObjectName: FR-none
+
+----
+
+Inventarnummer: DE_KSVC_M039
+
+----
+
+Title: Dido, die Königin von Karthago
+
+----
+
+Link: dido-die-konigin-von-karthago
+
+----
+
+Zuschreibung: Werkstatt Lucas Cranach der Ältere
+
+----
+
+Dated: 1547
+
+----
+
+DateBeginn: 1547
+
+----
+
+DateEnd: 1547
+
+----
+
+Longtext: Das Gemälde zeigt die antike Königin Dido als sitzende Dreiviertelfigur in zeitgenössischer Kleidung.
+Die Augen ihres leicht geneigten Kopfes blicken den Betrachter an, während ihre rechte Hand den Dolch bereits in ihre Brust gestoßen hat. Dabei ruht ihre linke Hand auf dem Schoß. 
+Sie trägt ein goldenes, zeitgenössisches Gewand mit parallel gestuften Ärmeln und weißem, an den Ellbogen gebauschtem Untergewand, welches ihr über die Schultern gerutscht ist und ihre Brüste entblößt. Eine pelzverbrämte, goldene Schaube liegt auf ihrer linken Schulter und verläuft über ihren Rücken, bis sie zu ihrer rechten nach vorn kommt und ihren Schoß bedeckt, sie einrahmt. Ihre blonden Locken sind unter einer Perlenhaube aufgesteckt. 
+Angelegt hat sie neben einem feinen Halsreif mit Anhänger, eine Hobelspankette, ein dünnes (Leder)band mit einem Anhänger und einen schlichten Ring. 
+Der Hintergrund ist schwarz.
+[Herrschaft, CDA 2010]
+
+Der Legende nach war Dido die Gründerin Karthagos, die sich  in den trojanischen Prinzen Aeneas verliebte. Als Aeneas Karthago verließ, um den Auftrag der Götter - der Neugründung einer Stadt in Italien - zu erfüllen, erstach Dido sich. Somit wurde sie zur tragischen Heldin in einer Geschichte, in der die Pflicht über die Liebe obsiegt.
+[Literatur zum Thema: Poeschel 2007]
+
+----
+
+RelatedWorks: - Lucas Cranach d. Ä., Lucretia, 1537, Privatbesitz
+[Friedländer, Rosenberg 1979, no. 240D]
+
+----
+
+Classification: Malerei
+
+----
+
+Dimensions: Maße Bildträger: 27 x 17 (zuzüglich je ca. 0,5 cm, die in den Rahmen eingenutet sind) x 1 cm 
+[Cat. Coburg 2018, 104]
+
+
+----
+
+Provenienz: - Gotha, Kunstkammer Schloss Friedenstein, Gemäldegalerie
+- 1856 Herzogliche Kunst- und Altertümersammlung der Veste Coburg (HKA)
+- 1919 Kunstsammlungen der Veste Coburg (KVC)
+[Cat. Coburg 2018, 104]
+
+----
+
+MaterialTechnik: Malerei auf Lindenholz
+[Cat. Coburg 2018, 104]
+Rotbuchenholz
+[Maedebach, Exhib. Cat. Coburg 1972, No. 13]
+
+----
+
+Beschriftung: - am rechten oberen Bildrand in hellgelber Schrift:
+"DIDO REGINA"
+
+----
+
+VerwandteArbeiten: - Lucas Cranach d. Ä., Lucretia, 1537, Privatbesitz
+[Friedländer, Rosenberg 1979, no. 240D]
+
+----
+
+Ausstellungsgeschichte: Erfurt 1903, Nr. 90
+Coburg 1972, Nr. 13
+
+----

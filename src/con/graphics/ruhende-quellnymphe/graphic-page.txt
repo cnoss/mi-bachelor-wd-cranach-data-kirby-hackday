@@ -1,0 +1,82 @@
+BildURL: http://lucascranach.org/thumbnails/DE_KSVC_M161_FR-none/01_Overall/DE_KSVC_M161_FR-none_2010-09_Overall.jpg
+
+----
+
+Oid: 405989
+
+----
+
+ObjectName: FR-none
+
+----
+
+Inventarnummer: DE_KSVC_M161
+
+----
+
+Title: Ruhende Quellnymphe
+
+----
+
+Link: ruhende-quellnymphe
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1520
+
+----
+
+DateEnd: 1530
+
+----
+
+Longtext: Die Nymphe, die dem Gefolge der Jagdgöttin Diana angehört, ist neben einer Quelle, die ihr heilig ist, eingeschlafen. Solange sie nicht geweckt wird, können der Hirsch und der Biber (sowie der Bildbetrachter) ruhig sein.
+[Exhib. Cat. Basel 1974, 297]
+
+----
+
+Classification: Malerei
+
+----
+
+Dimensions: Maße Bildträger: 14,8 (Dm) x 0,6 cm
+[Cat. Coburg 2018, 88]
+Maße Bildträger: 15 x 15 cm (Durchmesser) 
+[Exhib. Cat. Coburg 2010, 256]
+"Rundbild 14,7 cm, Bildgr. 12,1 cm"
+[Maedebach, Exhib. Cat. Coburg 1972, No. 12]
+
+
+----
+
+Provenienz: - Herzoglicher Besitz, Coburg
+- 1876 Herzogliche Kunst- und Altertümersammlung der Vest Coburg (HKA)
+- 1919 Kunstsammlungen der Veste Coburg (KVC)
+- 1921 ausgestellt in den Wohnräumen im Fürstenbau der Veste Coburg
+[Cat. Coburg 2018, 88]
+
+----
+
+MaterialTechnik: Malerei auf Rotbuchenholz
+[Exhib. Cat. Coburg 2010, 256]
+
+----
+
+Beschriftung: keine
+
+----
+
+Ausstellungsgeschichte: Coburg 1972, Nr. 12
+Basel 1974, 297, Nr. 186
+Hamburg 2003, 180, Nr. 68
+Coburg 2010, 256-257
+
+----

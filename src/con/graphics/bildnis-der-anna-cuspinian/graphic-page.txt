@@ -1,0 +1,73 @@
+BildURL: http://lucascranach.org/thumbnails/CH_SORW_1925-1a_FR007/01_Overall/CH_SORW_1925-1a_FR007_1998-11_Overall.jpg
+
+----
+
+Oid: 345949
+
+----
+
+ObjectName: FR007
+
+----
+
+Inventarnummer: CH_SORW_1925-1a
+
+----
+
+Title: Bildnis der Anna Cuspinian
+
+----
+
+Link: bildnis-der-anna-cuspinian
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 1502
+
+----
+
+DateBeginn: 1502
+
+----
+
+DateEnd: 1502
+
+----
+
+Longtext: Brustbildnis der Frau des Historiographen Dr. Johannes Cuspinian (Spiessheimer)
+Teil eines Diptychons (Gegenstück zum Bildnis des Johannes Cuspinian)
+
+----
+
+Classification: Malerei
+
+----
+
+Dimensions: Maße Bildträger: 60,2-60,1 x 45,5-45 x 0,45-0,55 cm (Format nahezu original)
+
+
+
+----
+
+Provenienz: - Sammlung Charles I, König von England
+- Familie Locker-Lampson, England 
+- Baron of Sandys, England
+- Kunsthandel  A. -G., Luzern, Julius Böhler gall.
+- 1925 durch Reinhart erworben
+
+----
+
+MaterialTechnik: Malerei auf Fichtenholz (Picea sp.)
+
+----
+
+Ausstellungsgeschichte: Bern 1939-1940, Nr. 62-63, Taf. III
+Zürich 1940-1941, Nr. 39-40, Taf. XI-XII
+Winterthur 1955, Nr. 42-43, Taf. V.
+Kronach 1994, Nr. 118
+
+----
