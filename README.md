@@ -34,7 +34,7 @@ Mit `npm run dbuild` kann der Docker Container gebaut werden.
 
 ### Docker Container starten
 
-Mit `npm run docker` kann der Docker Container gestartet werden und damit sollte die Cranach Testversion unter [http://localhost](http://localhost) verfügbar sein. Im Docker Container läuft ein Apache Webserver mit PHP 7.2. Als DocumentRoot wird das Verzeichnis `src` in den Container eingebunden.
+Mit `npm run docker` kann der Docker Container gestartet werden und damit sollte die Cranach Testversion unter [http://localhost](http://localhost) verfügbar sein. Im Docker Container läuft ein Apache Webserver mit PHP 7.2. Als DocumentRoot wird das Verzeichnis `src` in den Container eingebunden. Zum Starten und Laufen des Containers wird ein separates Terminalfenster benötigt.
 
 
 ### SASS Dateien kompilieren
@@ -46,7 +46,7 @@ src/site/snippets/*
 src/assets/scss/*
 </pre>
 
-Bei Änderungen an SCSS Dateien in dieses Verzeichnissen wird ein neues CSS File generiert und unter `assets/css/site.css` abgelegt.
+Bei Änderungen an SCSS Dateien in dieses Verzeichnissen wird ein neues CSS File generiert und unter `assets/css/site.css` abgelegt. Zum Starten und Laufen des Watchers wird ein separates Terminalfenster benötigt.
 
 ### Statischen Mirror generieren
 
