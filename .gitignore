@@ -47,5 +47,5 @@ src/assets/css/
 # Static
 # ---------------
 
-docs/
+static/
 log/
