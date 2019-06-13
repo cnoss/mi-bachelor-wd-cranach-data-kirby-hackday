@@ -1,0 +1,24 @@
+{
+  "name": "kirbydemo",
+  "version": "1.0.0",
+  "description": "Demo für FD2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dbuild": "docker build -t kirby .",
+    "generator": "wget --mirror --convert-links --no-host-directories --html-extension --wait=2 -o log -P ./docs/ http://localhost",
+    "docker": "docker run -it --rm  -p 80:80 -v /Users/cnoss/git/_temp/docker/php/src:/var/www/html kirby",
+    "watch": "gulp watch"
+  },
+  "author": "Christian Noss",
+  "license": "ISC",
+  "devDependencies": {
+    "concat": "^1.0.3",
+    "del": "^4.1.1",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "sass": "^1.20.3"
+  }
+}
