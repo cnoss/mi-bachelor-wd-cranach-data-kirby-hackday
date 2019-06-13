@@ -51,3 +51,7 @@ Bei Änderungen an SCSS Dateien in dieses Verzeichnissen wird ein neues CSS File
 ### Statischen Mirror generieren
 
 Via `npm run static` kann von der kompletten *dynamischen* Website ein *statischer* Spiegel generiert werden, der unter `static`abgelegt wird. Dies dauert einige Minuten. Somit haben wir eine statische Version der Website, die wir z.B. auf github.io deployen können. 
+
+## Patternlab
+
+Unter [http://localhost/patternlab] steht eine rudimentäre Pattern Library zur Verfügung.
