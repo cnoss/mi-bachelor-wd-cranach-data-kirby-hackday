@@ -50,4 +50,4 @@ Bei Änderungen an SCSS Dateien in dieses Verzeichnissen wird ein neues CSS File
 
 ### Statischen Mirror generieren
 
-Via `npm run static` kann von der kompletten *dynamischen* Website ein *statischer* Spiegel generiert werden. Somit haben wir eine statische Version der Website, die wir z.B. auf github.io deployen können. 
+Via `npm run static` kann von der kompletten *dynamischen* Website ein *statischer* Spiegel generiert werden. Dies dauert einige Minuten. Somit haben wir eine statische Version der Website, die wir z.B. auf github.io deployen können. 
