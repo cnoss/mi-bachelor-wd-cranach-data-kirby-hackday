@@ -4,5 +4,58 @@ $light:   #B4B4B4;
 $lighter: #FFFFFF;
 $accent:  #FFCC00;
 
+
+
+
+
+/* Größen und Abstände
+-----------------------------------------------------------------------------*/
+
 $bfs: 1rem;
-$space-m: $bfs;
+
+/* Entlang der Fibonacci Reihe */
+$xs: $bfs * 0.5;
+$s: $bfs * 0.8;
+$m: $bfs * 1.3;
+$l: $bfs * 2.1;
+$xl: $bfs * 3.4;
+$xxl: $bfs * 5.5;
+
+
+
+
+
+/* Schriftarten
+-----------------------------------------------------------------------------*/
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 100;
+  src: url(/assets/fonts/Roboto/Roboto-Light.ttf);
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url(/assets/fonts/Roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: url(/assets/fonts/Roboto/Roboto-Bold.ttf);
+}
+
+$font-sans-serif: "Roboto-Light";
+
+
+
+
+
+/* Misc
+-----------------------------------------------------------------------------*/
+
+$border-radius: $xs;

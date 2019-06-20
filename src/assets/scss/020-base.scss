@@ -1,10 +1,15 @@
 html,
 body {
-  background-color: $light;
-  padding: $space-m;
+  background-color: $darker;
+  padding: $m;
+  font-family: $font-sans-serif;
+  color: $light;
+}
+
+main{
+  margin-bottom: $xl;
 }
 
 a {
   color: $accent;
 }
-

@@ -1,9 +1,12 @@
-<?php snippet('../snippets/system/header') ?>
+<?php snippet('../snippets/system/header/template') ?>
 
 <main>
 
-<?php snippet("m/image-with-caption/template", ["src"=>$page->BildURL(), "caption"=>$page->Longtext()]); ?>
+<article class="grid-container-zweispalter">
+<?php snippet("m/image-with-caption/template", ["src"=>$page->BildURL()]); ?>
+<?php snippet("o/image-description/template", ["page"=>$page]); ?>
+</article>
 
 </main>
 
-<?php snippet('../snippets/system/footer') ?>
+<?php snippet('../snippets/system/footer/template') ?>

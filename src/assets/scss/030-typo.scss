@@ -1,23 +1,24 @@
 h1, h2, h3, p, code, pre{
-  margin-bottom: $space-m;
+  margin-bottom: $m;
 }
 
 h1, h2, h3{
-  font-weight: bold;
+  font-weight: 100;
 }
 
-p, table, figcaption{
-  font-size: $bfs;
+p, table, figcaption, dt, dl, dd{
+  line-height: 130%;
+  font-size: $m;
 }
 
 h1{
-  font-size: $bfs * 1.8;
+  font-size: $xl;
 }
 
 h2{
-  font-size: $bfs * 1.4;
+  font-size: $l;
 }
 
 h3{
-  font-size: $bfs * 1.2;
+  font-size: $m;
 }

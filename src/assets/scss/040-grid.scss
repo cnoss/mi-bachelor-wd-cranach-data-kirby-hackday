@@ -1,0 +1,14 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-column-gap: $m;
+  grid-row-gap: $m;
+}
+
+
+.grid-container-zweispalter{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: $m;
+  grid-row-gap: $m;
+}
