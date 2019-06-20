@@ -20,7 +20,7 @@ Doku: tbd.
 <div>
 <?php
 foreach($page->content()->toArray() as $key=>$value){
-   print "<div>".$key.": ". $value."</div>";
+   // print "<div>".$key.": ". $value."</div>";
 }
 ?>
 </div>

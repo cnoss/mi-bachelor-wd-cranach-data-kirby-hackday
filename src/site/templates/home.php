@@ -7,7 +7,7 @@
   </div>
 
   <ul class="overview grid-container">
-    <?php foreach (page('graphics')->children() as $item): ?>
+    <?php foreach (page('paintings')->children() as $item): ?>
     <a href="<?= $item->url() ?>">
       <li>
       <?php snippet("m/card-image-with-caption/template", ["src"=>$item->BildURL(), "caption"=>$item->Title()]); ?>
