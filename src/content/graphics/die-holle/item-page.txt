@@ -1,0 +1,53 @@
+Type: virtual
+
+----
+
+Oid: 940845
+
+----
+
+ObjectName: Holzschnitt: http://vocab.getty.edu/aat/300041405
+
+----
+
+Inventarnummer: LC_HVI-55_78b
+
+----
+
+Title: Die Hölle
+
+----
+
+Link: die-holle
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1508
+
+----
+
+DateEnd: 1518
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 12 x 29 cm (+- 2 mm)
+[cda 2019]
+
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

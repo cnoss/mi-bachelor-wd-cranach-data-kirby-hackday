@@ -2,17 +2,31 @@ h1, h2, h3, p, code, pre{
   margin-bottom: $m;
 }
 
-h1, h2, h3{
-  font-weight: 100;
+h4{
+  margin-bottom: $s;
 }
 
-p, table, figcaption, dt, dl, dd{
-  line-height: 130%;
-  font-size: $m;
+td p, th p{
+  margin-bottom: 0;
+}
+
+h1, h2, h3, h4{
+  font-weight: 100;
+  color: $lighter;
+}
+
+p, table, figcaption, dt, dl, dd, li{
+  line-height: 140%;
+  font-size: $s;
 }
 
 h1{
   font-size: $xl;
+  transition: .5s;
+
+  @media only screen and (min-width: $vp-medium) {
+    font-size: $xl;
+  }
 }
 
 h2{
@@ -21,4 +35,16 @@ h2{
 
 h3{
   font-size: $m;
+}
+
+h4{
+  font-size: $s;
+}
+
+strong{
+  color: $lighter;
+}
+
+a{
+  text-decoration: none;
 }

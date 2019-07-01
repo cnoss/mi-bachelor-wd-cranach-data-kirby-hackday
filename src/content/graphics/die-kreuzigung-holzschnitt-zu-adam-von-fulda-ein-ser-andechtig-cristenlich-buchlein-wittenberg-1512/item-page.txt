@@ -1,0 +1,54 @@
+Type: virtual
+
+----
+
+Oid: 955570
+
+----
+
+ObjectName: Holzschnitt
+
+----
+
+Inventarnummer: LG_HVI-39_65e
+
+----
+
+Title: Die Kreuzigung (Holzschnitt zu Adam von Fulda, Ein ser andechtig Cristenlich Buchlein ..., Wittenberg 1512)
+
+----
+
+Link: die-kreuzigung-holzschnitt-zu-adam-von-fulda-ein-ser-andechtig-cristenlich-buchlein-wittenberg-1512
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 1512
+
+----
+
+DateBeginn: 1507
+
+----
+
+DateEnd: 1517
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: 
+Blockmaß: 11,2 × 7,5 cm (+- 2 mm)
+[cda 2019]
+
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

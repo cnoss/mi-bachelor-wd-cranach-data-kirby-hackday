@@ -1,0 +1,53 @@
+Type: virtual
+
+----
+
+Oid: 949045
+
+----
+
+ObjectName: Holzschnitt
+
+----
+
+Inventarnummer: LC_HVI-96_119
+
+----
+
+Title: Das vierte Turnier mit Schwertern
+
+----
+
+Link: das-vierte-turnier-mit-schwertern
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 1509
+
+----
+
+DateBeginn: 1509
+
+----
+
+DateEnd: 1509
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 29,6 x 41,8 cm (+- 2 mm)
+[cda 2019]
+
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

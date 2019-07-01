@@ -1,0 +1,53 @@
+Type: virtual
+
+----
+
+Oid: 948223
+
+----
+
+ObjectName: Holzschnitt
+
+----
+
+Inventarnummer: LC_HVI-81_105
+
+----
+
+Title: Venus und Cupido
+
+----
+
+Link: venus-und-cupido
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1504
+
+----
+
+DateEnd: 1514
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 28 x 19,4 cm (+- 5 mm)
+[cda 2019]
+
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

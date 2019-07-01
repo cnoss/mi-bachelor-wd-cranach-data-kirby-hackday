@@ -1,9 +1,15 @@
 html,
 body {
   background-color: $darker;
-  padding: $m;
-  font-family: $font-sans-serif;
+  padding: $s;
+  font-family: $ff-light;
   color: $light;
+  font-size: 80%;
+
+  @media only screen and (min-width: $vp-medium) {
+    padding: $m;
+    font-size: 100%;
+  }
 }
 
 main{
@@ -12,4 +18,24 @@ main{
 
 a {
   color: $accent;
+}
+
+
+
+ol, ul{
+  margin-bottom: $m;
+
+  >li{
+    list-style-type: square;
+    margin-left: $s;
+  }
+}
+
+ol + h2,
+ol + h3,
+ol + h4,
+ul + h2,
+ul + h3,
+ul + h4{
+  margin-top: $xl;
 }

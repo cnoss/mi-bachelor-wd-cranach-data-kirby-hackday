@@ -1,0 +1,52 @@
+Type: virtual
+
+----
+
+Oid: 946629
+
+----
+
+ObjectName: Holzschnitt
+
+----
+
+Inventarnummer: LC_HVI-65_88
+
+----
+
+Title: Der heilige Michael als Seelenwäger
+
+----
+
+Link: der-heilige-michael-als-seelenwager
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 1506
+
+----
+
+DateBeginn: 1506
+
+----
+
+DateEnd: 1506
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 24,5 x 14,3 cm (+- 3 mm)
+
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

@@ -1,0 +1,209 @@
+Type: real
+
+----
+
+Oid: 949241
+
+----
+
+ObjectName: Holzschnitt: http://vocab.getty.edu/aat/300041405
+
+----
+
+Inventarnummer: LC_HVI-19-21_16
+
+----
+
+Title: Die Dornenkrönung – Germanisches Nationalmuseum, Nürnberg
+
+----
+
+Link: die-dornenkronung-aus-der-passion-christi-folge-von-14-holzschnitten [cda 2019]
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+StructuralInformation:
+  items:
+    "CDA ID": XX_XYZ_123
+    "Permanentlink": 'http://lucascranach.org/XX_XYZ_123'
+    "VD16-Nr.": HZZ007
+
+----
+
+CoreInformation:
+  items:
+    "Inventor": "Lucas Cranach der Ältere [Germanisches Nationalmuseum, revised 2019]"
+    "Drucker": "Max Mustermann [Germanisches Nationalmuseum, revised 2019]"
+    "Verleger": "Lieschen Müller	[Germanisches Nationalmuseum, revised 2019]"
+    "Druckzustand/ Version": "2\. Auflage"
+    "Eigentümer": "Bundesrepublik Deutschland"
+    "Besitzer": "Germanisches Nationalmuseum, Nürnberg"
+    "Standort": "Nürnberg"
+
+----
+
+OtherTitles:
+- Luther als Junker Jörg [graphikportal.org; accessed 10.01.2019]
+- Marin Luther [Germanisches Nationalmuseum, revised 2019]
+- Bildnis Martin Luthers [cda 2019]
+- Martin Luther als Junker Jörg [Exhib.Cat. Gotha 2017, 123, No.1]
+- Luther mit Bart [Heller 1883, 123, No.11]
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blattmaß: 28,2 x 20,6 cm [Germanisches Nationalmuseum, revised 2019]
+
+----
+
+ImageGround: Druck auf Papier [Germanisches Nationalmuseum, revised 2019]
+
+
+----
+
+BildURL: http://lucascranach.org/imageserver/G_AT_A_DG1929-134/01_Overall/G_AT_A_DG1929-134_Overall-m.tif.jpg
+
+----
+
+SignatureDates:
+Am linken Bildrand bezeichnet: Schlangensignet mit stehenden Flügeln und datiert „1515“
+
+----
+
+Inscriptions:
+Rechts: "CHRISTOFERUS SCHEURLUS I V D / NATUS ANNOS / SU SCHEURLUS TIBI NOTUS E VIATOR / QUIS SCHEURLUS MAGIS EST AN / HIC AN ILLE" 
+links die Devise: '"FORTES FORTUNA FORMIDAT / A A A" [http://forschung.gnm.de/apps/dmsweb2/index.php?mode=detail&invnr=Gm2332]'
+
+----
+
+Teasertext:
+
+Dargestellt ist der Reformator Martin Luther als Junker Jörg mit Bart, im Dreiviertel Profil nach links gewandt, vor wolkigem Hintergrund. [cda 2019]
+
+
+----
+
+StampsSealsLabels:
+  Auf der Rückseite:
+    - Stempel des Germanischen Nationalmuseums, in blauer Farbe
+    - Aufkleber des GNM
+    - Aufschrift mit Bleistift „G1136“
+    '[Germanisches Nationalmuseum, revised 2019]'
+
+----
+
+Provenienz:
+- vermutlich in sächsischem Privatbesitz
+- von einem Münchener Kunsthändler erworben
+- 1873 erstmals im Inventar des Museums verzeichnet
+'[Germanisches Nationalmuseum, revised 2019]'
+
+----
+
+Exhibitions:
+Berlin 1937, Nr. 1 
+München 1938, Nr. 388
+Wien 1939, Nr. 180
+Amsterdam 1947, Nr. 39
+Paris 1947
+Stockholm 1948, Nr. 169
+Kopenhagen 1948, Nr. 43
+Wien 1950
+Oslo 1952, Nr. 36
+Graz 1953, Nr. 23
+Wien 1972, Nr. 1
+Kronach 1994, Nr. 110
+Tokyo, Kyoto 2002/2003, Nr. 2 
+Frankfurt, London 2007/2008, Nr. 2
+Brüssel 2010/11, Nr. 5
+
+----
+
+Publications:
+
+Werner 2010:
+  "page": 31
+  "catnumber": -
+  "figure": 23
+
+Müller 2010:
+  "page": 61
+  "catnumber": -
+  "figure": -
+
+Exhib. Cat. Coburg 2010:
+  "page": 292
+  "catnumber": -
+  "figure": -
+
+Evans 2007:
+  "page": 53
+  "catnumber": -
+  "figure": -
+
+Heydenreich 2007 A:
+  "page": 63, 76, 79, 200, 228, 394
+  "catnumber": -
+  "figure": Figs. 11, 38, 39, 158, 159
+
+Schade 2003:
+  "page": 16
+  "catnumber": -
+  "figure": -
+  
+Exhib. Cat. Halle 2002:
+  "page": 151
+  "catnumber": No. II. I/6a
+  "figure": -
+
+Heydenreich 1998 A:
+  "page": 186, 188, 189
+  "catnumber": -
+  "figure": Fig. 21.3
+
+Friedländer, Rosenberg 1979:
+  "page": 72
+  "catnumber": No. 23
+  "figure": Fig. 23
+
+----
+
+Watermark:
+-  im rechten oberen Viertel ein Wasserzeichen von 5 cm Höhe und 3,8 cm Breite, eine Krone mit drei Zacken darstellend
+- dieses Wasserzeichen wurde von dem Papierhersteller Hans Meyer von 1520 – 1538 in Leipzig verwendet
+'[Germanisches Nationalmuseum, revised 2019]'
+
+----
+
+ConservationStatus:
+
+- date: 02.02.2000
+  info: "Das Bild befindet sich in einem guten Zustand. Die Holztafel ist etwas gewölbt. Inkarnat und Himmel sind etwas stark gereinigt. Einige, zum Teil verfärbte Retuschen im Himmel und im Mantel" [Koepplin 2003, 127] untersucht von Max Mustermann
+
+----
+
+RestorationHistory:
+
+- date: "01.1911"
+  info: >
+    Restaurierungsdokumentation Pfister, durchgeführte Maßnahmen: "Herstellen von 2 Klimavitrinen, Reinigen der Oberfläche, Nachfirnissen der eingeschlagenen Oberfläche mit verdünntem Dammarfirnis"
+    [Germanisches Nationalmuseum, revised 2019] restauriert von Lieschen Müller
+
+- date: "02.1922"
+  info: >
+    Restaurierungsdokumentation 1969 Dr. Paolo Cadorin, Basel Durchgeführte Maßnahmen: "A) Niederlegen von mehreren kleinen Blasen in der Malschicht besonders in der mittleren Partie des Bildes. B) Festigung der ganzen Farbschicht C) Beseitigung mehrerer stark nachgedunkelter störender Retuschen"
+    [Germanisches Nationalmuseum, revised 2019] restauriert von Moritz Meyer
+
+----
+
+ResearchHistory:
+
+- date: 2003
+  info: Diese Tafel und ihr Gegenstück (Anna Cuspinian) bilden zusammen ein Werk, das vermutlich aus Anlass der Vermählung in Auftrag gegeben wurde. Der Dargestellte ist der Humanist Johannes Cuspinian, geboren in Franken. 1492, angezogen von den intellektuellen Kreisen, zog er nach Wien, wo er seine spätere Frau, Anna Putsch, Tochter des königlichen Kämmerers Ulrich Putsch, kennen lernte (im Gegenstück dargestellt). Beide Bildnisse wurden mit einer hinter den Porträtierten durchgehenden Landschaft als Einheit konzipiert. Die ursprünglichen Rahmen des Diptychons waren wahrscheinlich durch Scharniere verbunden. So konnte man das Bildnis nicht nur aufstellen oder hängen sondern auch zuklappen. Verschiedene Elemente vermitteln auf subtile Art christliche und humanistische Symbolik, manche spielen auf die Themen Liebe und Treue an. "In den Worten von Ernst Buchner – 'Der frühlingshafte Zauber eines neuen Weltzeitalters liegt über den Tafeln'." [Koepplin 2003, 133] Vgl. [Friedlander, Rosenberg 1978, 66-67]; [Koepplin 1973]

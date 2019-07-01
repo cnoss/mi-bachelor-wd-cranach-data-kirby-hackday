@@ -1,0 +1,62 @@
+Type: virtual
+
+----
+
+Oid: 954113
+
+----
+
+ObjectName: Holzschnitt
+
+----
+
+Inventarnummer: LC_HVI-67_91
+
+----
+
+Title: Das Martyrium der heiligen Barbara
+
+----
+
+Link: das-martyrium-der-heiligen-barbara
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1504
+
+----
+
+DateEnd: 1514
+
+----
+
+RelatedWorks: Bartsch VII.285.70; Hollstein German VI.67.91; Jahn S. 336;
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 24,8 × 16,8 cm (+- 3 mm)
+[cda 2019]
+block marks: 24.8 × 16.8 cm (+- 3 mm)
+[cda 2019]
+
+----
+
+VerwandteArbeiten: Bartsch VII.285.70; Hollstein German VI.67.91; Jahn S. 336;
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

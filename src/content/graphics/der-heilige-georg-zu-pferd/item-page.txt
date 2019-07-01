@@ -1,0 +1,53 @@
+Type: virtual
+
+----
+
+Oid: 946837
+
+----
+
+ObjectName: Holzschnitt
+
+----
+
+Inventarnummer: LC_HVI-58_81
+
+----
+
+Title: Der heilige Georg zu Pferd
+
+----
+
+Link: der-heilige-georg-zu-pferd
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1502
+
+----
+
+DateEnd: 1512
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 23,3 × 15,9 cm
+[cda 2019]
+
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

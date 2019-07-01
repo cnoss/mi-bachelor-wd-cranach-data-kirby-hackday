@@ -1,0 +1,53 @@
+Type: virtual
+
+----
+
+Oid: 955461
+
+----
+
+ObjectName: Holzschnitt
+
+----
+
+Inventarnummer: LC_HVI-59_82
+
+----
+
+Title: Hl. Georg zu Pferd mit dem Schwert gegen den Drachen kämpfend
+
+----
+
+Link: hl-georg-zu-pferd-mit-dem-schwert-gegen-den-drachen-kampfend
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1506
+
+----
+
+DateEnd: 1511
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 16,4 x 12,8 cm
+[cda 2019]
+
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

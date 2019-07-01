@@ -4,6 +4,7 @@ braucht:
   $src(:String): URL des Bildes
   $caption(:String): Bildunterschrift (optional)
 -->
+
 <figure class="m-image-with-caption">
   <img src="<?= $src ?>">
   <?php if(isset($caption)): ?>

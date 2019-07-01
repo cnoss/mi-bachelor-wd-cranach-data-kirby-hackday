@@ -1,0 +1,53 @@
+Type: virtual
+
+----
+
+Oid: 940846
+
+----
+
+ObjectName: Holzschnitt: http://vocab.getty.edu/aat/300041405
+
+----
+
+Inventarnummer: LC_HVI-52_76
+
+----
+
+Title: Peinigung des hl. Antonius
+
+----
+
+Link: peinigung-des-hl-antonius
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 1506
+
+----
+
+DateBeginn: 1501
+
+----
+
+DateEnd: 1511
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 40 x 26.8 cm (+- 2 mm)
+[cda 2019]
+
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

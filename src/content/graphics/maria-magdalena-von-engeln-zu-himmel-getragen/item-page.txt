@@ -1,0 +1,53 @@
+Type: virtual
+
+----
+
+Oid: 946632
+
+----
+
+ObjectName: Holzschnitt
+
+----
+
+Inventarnummer: LC_HVI-70_94
+
+----
+
+Title: Maria Magdalena von Engeln zu Himmel getragen
+
+----
+
+Link: maria-magdalena-von-engeln-zu-himmel-getragen
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 1506
+
+----
+
+DateBeginn: 1506
+
+----
+
+DateEnd: 1506
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 24,5 x 14,3 cm (+- 4 mm)
+[cda 2019]
+
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

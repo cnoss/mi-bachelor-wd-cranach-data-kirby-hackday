@@ -1,0 +1,52 @@
+Type: virtual
+
+----
+
+Oid: 948144
+
+----
+
+ObjectName: Holzschnitt
+
+----
+
+Inventarnummer: LC_HVI-80_104
+
+----
+
+Title: Das Urteil des Paris
+
+----
+
+Link: das-urteil-des-paris
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 1508
+
+----
+
+DateBeginn: 1503
+
+----
+
+DateEnd: 1513
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 36,3 x 25,2 cm (+- 2 mm)
+
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

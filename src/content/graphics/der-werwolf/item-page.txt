@@ -1,0 +1,53 @@
+Type: virtual
+
+----
+
+Oid: 955450
+
+----
+
+ObjectName: Holzschnitt
+
+----
+
+Inventarnummer: LC_HVI-83_107
+
+----
+
+Title: Der Werwolf
+
+----
+
+Link: der-werwolf
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1507
+
+----
+
+DateEnd: 1517
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 16,2 × 12,6 cm
+[cda 2019]
+
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

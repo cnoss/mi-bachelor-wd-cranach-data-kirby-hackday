@@ -1,0 +1,53 @@
+Type: virtual
+
+----
+
+Oid: 946778
+
+----
+
+ObjectName: Holzschnitt
+
+----
+
+Inventarnummer: LC_HVI-87_110
+
+----
+
+Title: Prinz auf einem Pferd reitend
+
+----
+
+Link: prinz-auf-einem-pferd-reitend
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 1506
+
+----
+
+DateBeginn: 1506
+
+----
+
+DateEnd: 1506
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 18,2 x 12,2 cm (+- 2 mm)
+[cda 2019]
+
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

@@ -1,0 +1,14 @@
+.cda-seperated-list{
+
+    &--item{
+      margin-left: $s;
+      list-style-type: "-";
+
+      & + &{
+        /* margin-top: $xxs;
+        padding-top: $xxs;
+        border-top: solid 1px $dark; */
+      }
+    }
+
+}

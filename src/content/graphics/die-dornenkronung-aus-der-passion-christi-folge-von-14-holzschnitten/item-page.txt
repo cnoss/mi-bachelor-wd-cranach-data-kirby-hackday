@@ -1,0 +1,103 @@
+Type: virtual
+
+----
+
+Oid: 949241
+
+----
+
+ObjectName: Holzschnitt: http://vocab.getty.edu/aat/300041405
+
+----
+
+Inventarnummer: LC_HVI-19-21_16
+
+----
+
+Title: Die Dornenkrönung (aus der Passion Christi, Folge von 14 Holzschnitten) [cda 2019]
+
+----
+
+Link: die-dornenkronung-aus-der-passion-christi-folge-von-14-holzschnitten [cda 2019]
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+StructuralInformation:
+  items:
+    "CDA ID": G_LC_HVI-12_34
+    "Permanentlink": 'http://lucascranach.org/G_LC_H123'
+    "Hollenstein-Nr.": HVI.12.34
+    "Bartsch-Nr.": VII.283.58
+    "GND-Nr.": XX007
+
+
+----
+
+Dates: 
+
+- date: 1506
+  type: 
+  info: '[vordatiert im Block]'
+
+- date: 1509
+  type: Datierung
+  info: '[cda 2019]'
+
+- date: 1554
+  type: Auflage
+  info: Datierung im Block entfernt; mit Text von Johann Stigel und "1554" datiert
+
+- date: 1556
+  type: Auflage
+  info: Datierung im Block entfernt; mit Text von Johann Stigel und datiert "1556"
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 28,2 x 20,6 cm (+/- 5 mm) [graphikportal.org; accessed 10.01.2019]
+
+
+----
+
+BildURL: http://lucascranach.org/imageserver/G_AT_A_DG1929-134/01_Overall/G_AT_A_DG1929-134_Overall-m.tif.jpg
+
+----
+
+SignatureDates:
+Bezeichnet im Block, links oben am Baum Tafel: "LC", Schlangensignet und datiert "1506" (5 spiegelverkehrt), I. Zustand
+später Datum entfernt, II. Zustand
+
+----
+
+Description:
+
+Cranach depicts St Christopher here in a mountainous landscape with a broad river that creates great pictorial depth. His face clearly expresses the extreme effort required to transport the infant Christ across the river. A hermit stands with a lantern on the shore in the right background. The electoral coats of arms suspended from the boughs at the upper left suggest that the woodcut was commissioned by Friedrich III the Wise.
+The block was initially dated 1506, cut in the line block, but this date was later removed, corresponding with the second state. Competition between Cranach and his contemporaries led to the development of the chiaroscuro woodcut, a tonal block, which simulated heightening by leaving parts of the paper white and it may have prompted him to deliberately antedate the first state by two years. Certain other arguments also cast doubt on the date. Cranach was not entitled to use the coat of arms with a serpent, seen on this print, until 1508 when it was granted to him by Duke Friedrich and in fact, it is not displayed on any other print before 1509. The most likely sequence of events was that Cranach learnt of the advances made in Augsburg on the invention of the tone block soon after his return from the Netherlands in 1508, and then produced his own version in the 'St Christopher' and 'Venus' woodcuts around 1509.
+
+1st state [Dodgson 1911, 295-296, 61a-c] [Hollstein 56.79]:
+a. with the date 1506. Chiaroscuro woodcut printed from two blocks, in red-brown
+b. as above. Outline block only.
+
+2nd state [Hollstein 56.79]:
+a. the date below the serpent removed. Outline block only. At top: 'AdImaginem Divi/ Christophori.'; below: 'In Imaginem Divi Christophori' and 26 verses by Johann Stigel in two columns 1554
+b. as a. but with the date 1556
+c. with 86 lines letterpress to the right and the date 1556
+d. with the date 1560 [Schuchardt 1870, 224]
+e. the date removed. Chiaroscuro, printed in both orange-brown and slate grey.  
+
+According to [Geisberg 1930, 594]: I. the light reflex on the knee is white; II. the light reflex on the knee has a line in the centre
+
+
+----
+
+ResearchHistory:
+
+- date: 2017
+  info: Während sich auf den ersten Abzügen die Datierung 1506 findet, wurde die Jahreszahl später aus dem Druckstock herausgeschnitten, was dem zweiten Zustand des Holzschnitts entspricht. Bereits Eduard Flechsig hat vermutet, dass die Grafik erst 1509 entstanden ist und anfänglich vordatiert wurde [...]. Dies könnte mit dem verwendeten Verfahren des Farbholzschnitts in Zusammenhang stehen. [...] durch die Vordatierung hatte Cranach möglicherweise versucht, die Entwicklung der auch von Hans Burgkmair genutzten Technik für sich zu reklamieren. [Exhib. Cat. Düsseldorf 2017, 155, No. 65]

@@ -1,0 +1,53 @@
+Type: virtual
+
+----
+
+Oid: 946786
+
+----
+
+ObjectName: Holzschnitt
+
+----
+
+Inventarnummer: LC_HVI-90_113
+
+----
+
+Title: Reiter im Wald auf Wildschweinjagd
+
+----
+
+Link: reiter-im-wald-auf-wildschweinjagd
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1501
+
+----
+
+DateEnd: 1511
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 18 × 12,4 cm (+- 2 mm)
+[cda 2019]
+
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

@@ -1,0 +1,53 @@
+Type: virtual
+
+----
+
+Oid: 946680
+
+----
+
+ObjectName: Holzschnitt
+
+----
+
+Inventarnummer: LC_HVI-57_80
+
+----
+
+Title: Das Martyrium des heiligen Erasmus
+
+----
+
+Link: das-martyrium-des-heiligen-erasmus
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 1506
+
+----
+
+DateBeginn: 1506
+
+----
+
+DateEnd: 1506
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 22,8 x 15,8 cm (+- 5 mm)
+[cda 2019]
+
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

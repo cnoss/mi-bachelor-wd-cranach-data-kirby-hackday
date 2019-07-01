@@ -1,0 +1,53 @@
+Type: virtual
+
+----
+
+Oid: 946569
+
+----
+
+ObjectName: Holzschnitt
+
+----
+
+Inventarnummer: LC_HVI-27_29
+
+----
+
+Title: Maria und Johannes unter dem Gekreuzigten
+
+----
+
+Link: maria-und-johannes-unter-dem-gekreuzigten
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1497
+
+----
+
+DateEnd: 1508
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 22 x 15,4 cm 
+[cda 2019]
+
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

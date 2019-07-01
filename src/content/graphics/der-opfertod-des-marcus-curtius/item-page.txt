@@ -1,0 +1,53 @@
+Type: virtual
+
+----
+
+Oid: 946854
+
+----
+
+ObjectName: Holzschnitt
+
+----
+
+Inventarnummer: LC_HVI-82_106
+
+----
+
+Title: Der Opfertod des Marcus Curtius
+
+----
+
+Link: der-opfertod-des-marcus-curtius
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1501
+
+----
+
+DateEnd: 1511
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 33,5 × 23,5 cm (+- 2 mm)
+[cda 2019]
+
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

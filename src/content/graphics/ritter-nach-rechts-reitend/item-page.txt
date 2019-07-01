@@ -1,0 +1,57 @@
+Type: virtual
+
+----
+
+Oid: 946719
+
+----
+
+ObjectName: Holzschnitt
+
+----
+
+Inventarnummer: LC_HVI-88_111
+
+----
+
+Title: Ritter nach rechts reitend
+
+----
+
+Link: ritter-nach-rechts-reitend
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 1506
+
+----
+
+DateBeginn: 1506
+
+----
+
+DateEnd: 1506
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 17,4 x 11,8 cm (+- 2 mm)
+[cda 2019]
+
+
+----
+
+Beschriftung: im Block auf Armbinde seines rechten Arms "KLVE"
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

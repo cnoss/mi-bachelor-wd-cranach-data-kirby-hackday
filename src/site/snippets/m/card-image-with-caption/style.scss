@@ -5,9 +5,12 @@
   background-color: #000;
   display: flex;
   position: relative;
+  @extend .image;
+  @extend .is-square;
 
   > img{
-    width: 100%;
+    object-fit: cover;
+
   }
 
   > figcaption{

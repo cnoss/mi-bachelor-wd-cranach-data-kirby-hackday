@@ -1,0 +1,62 @@
+Type: virtual
+
+----
+
+Oid: 952852
+
+----
+
+ObjectName: Holzschnitt
+
+----
+
+Inventarnummer: LC_HVI-22_24
+
+----
+
+Title: Christus am Ölberg
+
+----
+
+Link: christus-am-olberg
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 1503
+
+----
+
+DateBeginn: 1498
+
+----
+
+DateEnd: 1508
+
+----
+
+Longtext: Dieses als Unikat erhaltene Blatt gehört zur Gruppe der frühesten uns bis heute bekannten druckgrafischen Werke Cranachs. [...] Cranach schildert den Beginn der Passion Christi. Kniend, mit weit ausgebreiteten Armen und aufgerissenem Mund, fleht Christus seinen Vater an, den Kelch, getragen von einem Engel und Symbol der bevorstehenden Passion, an ihm vorbeigehen zu lassen. [...] Der Gegensatz zwischen dieser inneren Anspannung und der Ruhe der im Vordergrund schlafenden drei Apostel könnte kaum größer ausfallen.
+[Exhib. Cat. Düsseldorf 2017, 108, No. 4]
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 38,9 x 28,1 cm (+- 1mm)
+[cda 2019]
+
+
+----
+
+Beschriftung: Keine
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

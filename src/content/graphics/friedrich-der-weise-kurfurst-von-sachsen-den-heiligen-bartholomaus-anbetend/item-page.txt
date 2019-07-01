@@ -1,0 +1,53 @@
+Type: virtual
+
+----
+
+Oid: 946475
+
+----
+
+ObjectName: Kupferstich
+
+----
+
+Inventarnummer: LC_HVI-5_4
+
+----
+
+Title: Friedrich der Weise, Kurfürst von Sachsen, den heiligen Bartholomäus anbetend
+
+----
+
+Link: friedrich-der-weise-kurfurst-von-sachsen-den-heiligen-bartholomaus-anbetend
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1510
+
+----
+
+DateEnd: 1515
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Plattenmaß: 18,7 x 16,5 cm (+- 5 mm)
+[cda 2019]
+
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

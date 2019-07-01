@@ -1,0 +1,61 @@
+Type: virtual
+
+----
+
+Oid: 948064
+
+----
+
+ObjectName: Holzschnitt
+
+----
+
+Inventarnummer: LC_HVI-26_28
+
+----
+
+Title: Die Kreuzigung Christi
+
+----
+
+Link: die-kreuzigung-christi
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1490
+
+----
+
+DateEnd: 1550
+
+----
+
+RelatedWorks: Dodgson II.280; Nagler Monogrammisten III.580.22 (Hans Schäufelin); Hollstein German VI.26.28
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 21,5 × 15 cm (+- 3 mm)
+[cda 2019]
+
+
+----
+
+VerwandteArbeiten: Dodgson II.280; Nagler Monogrammisten III.580.22 (Hans Schäufelin); Hollstein German VI.26.28
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

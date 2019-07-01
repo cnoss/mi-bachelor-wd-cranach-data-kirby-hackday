@@ -1,0 +1,53 @@
+Type: virtual
+
+----
+
+Oid: 954883
+
+----
+
+ObjectName: Holzschnitt: http://vocab.getty.edu/aat/300041405
+
+----
+
+Inventarnummer: LC_HVI-36-37_61
+
+----
+
+Title: Das Martyrium des Apostels Jakobus des Jüngeren aus der Folge "Das Martyrium der zwölf Apostel", 12 Blätter
+
+----
+
+Link: das-martyrium-des-apostels-jakobus-des-jungeren-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 0
+
+----
+
+DateBeginn: 1507
+
+----
+
+DateEnd: 1517
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 16,2 x 12,6 cm (+- 2 mm)
+[cda 2019]
+
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

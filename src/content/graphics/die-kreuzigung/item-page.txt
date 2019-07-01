@@ -1,0 +1,61 @@
+Type: virtual
+
+----
+
+Oid: 948065
+
+----
+
+ObjectName: Holzschnitt
+
+----
+
+Inventarnummer: LC_HVI-25_27
+
+----
+
+Title: Die Kreuzigung
+
+----
+
+Link: die-kreuzigung
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 1516
+
+----
+
+DateBeginn: 1511
+
+----
+
+DateEnd: 1521
+
+----
+
+RelatedWorks: Bartsch VII.281.21; Hollstein German VI.25.27; Jahn S. 455; TIB 11.339.21 (281)
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 26,8 x 16,8 cm (+- 1 mm)
+[cda 2019]
+
+
+----
+
+VerwandteArbeiten: Bartsch VII.281.21; Hollstein German VI.25.27; Jahn S. 455; TIB 11.339.21 (281)
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----

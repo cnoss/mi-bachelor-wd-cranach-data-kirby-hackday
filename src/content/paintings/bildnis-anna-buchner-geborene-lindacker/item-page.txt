@@ -79,11 +79,11 @@ BildURL: http://lucascranach.org/thumbnails/US_MIA_57-10_FR128/01_Overall/US_MIA
 
 ----
 
-BildURLxs: http://lucascranach.org/imageserver/US_MIA_57-10_FR128/01_Overall/US_MIA_57-10_FR128_2012_Overall-xs.jpg
+BildURLxs: http://lucascranach.org/thumbnails/DK_SMK_KMSsp721_FR414B/01_Overall/DK_SMK_KMSsp721_FR414B_2013-09-27_Overall.jpg
 
 ----
 
-BildURLs: http://lucascranach.org/imageserver/US_MIA_57-10_FR128/01_Overall/US_MIA_57-10_FR128_2012_Overall-s.jpg
+BildURLs: http://lucascranach.org/thumbnails/CH_KMB_177a_FR187-188/01_Overall/CH_KMB_177a_FR187-188_2010-03_Overall.jpg
 
 ----
 

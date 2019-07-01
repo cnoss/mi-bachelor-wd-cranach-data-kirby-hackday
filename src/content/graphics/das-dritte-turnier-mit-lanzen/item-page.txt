@@ -1,0 +1,53 @@
+Type: virtual
+
+----
+
+Oid: 949007
+
+----
+
+ObjectName: Holzschnitt
+
+----
+
+Inventarnummer: LC_HVI-95_118
+
+----
+
+Title: Das dritte Turnier mit Lanzen
+
+----
+
+Link: das-dritte-turnier-mit-lanzen
+
+----
+
+Zuschreibung: Lucas Cranach der Ältere
+
+----
+
+Dated: 1509
+
+----
+
+DateBeginn: 1509
+
+----
+
+DateEnd: 1509
+
+----
+
+Classification: Druckgrafik
+
+----
+
+Dimensions: Blockmaß: 29,2 x 41,6 cm (+- 2 mm)
+[cda 2019]
+
+
+----
+
+BildURL: https://via.placeholder.com/400x700/000000/666666
+
+----
