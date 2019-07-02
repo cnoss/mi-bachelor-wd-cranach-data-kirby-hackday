@@ -11,8 +11,8 @@ braucht:
   <table class="table is-fullwidth">
   <?php foreach($dates as $entry): ?>
     <tr>
-      <th><?= $entry->date() ?></th>
-      <td><?= $entry->type() ?></td>
+      <th width="15%"><?= $entry->date() ?></th>
+      <td width="25%"><?= $entry->type() ?></td>
       <td><?= kirbytext($entry->info()->toString()) ?></td>
     </tr>
     <?php endforeach; ?>

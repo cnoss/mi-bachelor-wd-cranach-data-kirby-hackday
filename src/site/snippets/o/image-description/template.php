@@ -25,7 +25,9 @@ Doku: tbd.
   <?php if($page->RestorationHistory()->isNotEmpty()){ snippet("m/data-restoration-history/template", ["restorationHistory"=>$page->RestorationHistory()->toStructure()]); } ?>
 
   <?php if($page->researchHistory()->isNotEmpty()){ snippet("m/data-research-history/template", ["researchHistory"=>$page->researchHistory()->toStructure()]); } ?>
-  
+  <?php if($page->hasChildren()) { snippet("m/child-list/template", ["page"=>$page]); } ?>
+
+
 
 </div>
 

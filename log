@@ -1,4 +1,4 @@
---2019-06-24 09:15:26--  http://localhost/
+--2019-07-01 13:22:58--  http://localhost/
 Auflösen des Hostnamens localhost (localhost)… ::1, fe80::1, 127.0.0.1
 Verbindungsaufbau zu localhost (localhost)|::1|:80 … fehlgeschlagen: Connection refused.
 Verbindungsaufbau zu localhost (localhost)|fe80::1|:80 … fehlgeschlagen: Connection refused.
@@ -7,582 +7,888 @@ HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
 Länge: nicht spezifiziert [text/html]
 Wird in »./static/index.html« gespeichert.
 
-     0K .......... .......... .....                             173M=0s
+     0K .......... .......... .......... ..........            86,3M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:15:27 (173 MB/s) - »./static/index.html« gespeichert [26429]
+2019-07-01 13:23:00 (86,3 MB/s) - »./static/index.html« gespeichert [40992]
 
 »robots.txt« wird geladen; bitte Fehler ignorieren.
---2019-06-24 09:15:29--  http://localhost/robots.txt
+--2019-07-01 13:23:02--  http://localhost/robots.txt
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 404 Not Found
-2019-06-24 09:15:29 FEHLER 404: Not Found.
+2019-07-01 13:23:03 FEHLER 404: Not Found.
 
---2019-06-24 09:15:31--  http://localhost/assets/css/site.css
+--2019-07-01 13:23:05--  http://localhost/assets/css/site.css
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 21079 (21K) [text/css]
+Länge: 93487 (91K) [text/css]
 Wird in »./static/assets/css/site.css« gespeichert.
 
-     0K .......... ..........                                 100%  137M=0s
+     0K .......... .......... .......... .......... .......... 54% 19,5M 0s
+    50K .......... .......... .......... .......... .         100%  163M=0,003s
 
-2019-06-24 09:15:31 (137 MB/s) - »./static/assets/css/site.css« gespeichert [21079/21079]
+2019-07-01 13:23:05 (32,4 MB/s) - »./static/assets/css/site.css« gespeichert [93487/93487]
 
---2019-06-24 09:15:33--  http://localhost/paintings/bildnis-anna-buchner-geborene-lindacker
+--2019-07-01 13:23:07--  http://localhost/graphics/busse-des-heiligen-johannes-chrysostomos
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 3401 (3,3K) [text/html]
-Wird in »./static/paintings/bildnis-anna-buchner-geborene-lindacker.html« gespeichert.
+Länge: 1278 (1,2K) [text/html]
+Wird in »./static/graphics/busse-des-heiligen-johannes-chrysostomos.html« gespeichert.
 
-     0K ...                                                   100%  649M=0s
+     0K .                                                     100%  203M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:15:33 (649 MB/s) - »./static/paintings/bildnis-anna-buchner-geborene-lindacker.html« gespeichert [3401/3401]
+2019-07-01 13:23:07 (203 MB/s) - »./static/graphics/busse-des-heiligen-johannes-chrysostomos.html« gespeichert [1278/1278]
 
---2019-06-24 09:15:35--  http://localhost/paintings/bildnis-barbaras-der-herzogin-von-sachsen-1478-1534-gemahlin-von-georg-dem-bartigen
+--2019-07-01 13:23:09--  http://localhost/graphics/christus-am-olberg
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2255 (2,2K) [text/html]
-Wird in »./static/paintings/bildnis-barbaras-der-herzogin-von-sachsen-1478-1534-gemahlin-von-georg-dem-bartigen.html« gespeichert.
+Länge: 1256 (1,2K) [text/html]
+Wird in »./static/graphics/christus-am-olberg.html« gespeichert.
 
-     0K ..                                                    100%  430M=0s
+     0K .                                                     100% 92,1M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:15:36 (430 MB/s) - »./static/paintings/bildnis-barbaras-der-herzogin-von-sachsen-1478-1534-gemahlin-von-georg-dem-bartigen.html« gespeichert [2255/2255]
+2019-07-01 13:23:10 (92,1 MB/s) - »./static/graphics/christus-am-olberg.html« gespeichert [1256/1256]
 
---2019-06-24 09:15:38--  http://localhost/paintings/bildnis-der-katharina-von-bora
+--2019-07-01 13:23:12--  http://localhost/graphics/christus-am-olberg-aus-der-passion-christi-folge-von-14-holzschnitten
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2558 (2,5K) [text/html]
-Wird in »./static/paintings/bildnis-der-katharina-von-bora.html« gespeichert.
+Länge: 1414 (1,4K) [text/html]
+Wird in »./static/graphics/christus-am-olberg-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert.
 
-     0K ..                                                    100%  174M=0s
+     0K .                                                     100%  169M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:15:38 (174 MB/s) - »./static/paintings/bildnis-der-katharina-von-bora.html« gespeichert [2558/2558]
+2019-07-01 13:23:12 (169 MB/s) - »./static/graphics/christus-am-olberg-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert [1414/1414]
 
---2019-06-24 09:15:40--  http://localhost/paintings/bildnis-einer-frau
+--2019-07-01 13:23:14--  http://localhost/graphics/christus-vor-hannas-aus-der-passion-christi-folge-von-14-holzschnitten
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2086 (2,0K) [text/html]
-Wird in »./static/paintings/bildnis-einer-frau.html« gespeichert.
+Länge: 1414 (1,4K) [text/html]
+Wird in »./static/graphics/christus-vor-hannas-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert.
 
-     0K ..                                                    100%  398M=0s
+     0K .                                                     100%  225M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:15:40 (398 MB/s) - »./static/paintings/bildnis-einer-frau.html« gespeichert [2086/2086]
+2019-07-01 13:23:15 (225 MB/s) - »./static/graphics/christus-vor-hannas-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert [1414/1414]
 
---2019-06-24 09:15:42--  http://localhost/paintings/bildnis-einer-jungen-frau-prinzessin-emilia-von-sachsen
+--2019-07-01 13:23:17--  http://localhost/graphics/christus-vor-herodes-aus-der-passion-christi-folge-von-14-holzschnitten
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2592 (2,5K) [text/html]
-Wird in »./static/paintings/bildnis-einer-jungen-frau-prinzessin-emilia-von-sachsen.html« gespeichert.
+Länge: 1415 (1,4K) [text/html]
+Wird in »./static/graphics/christus-vor-herodes-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert.
 
-     0K ..                                                    100%  353M=0s
+     0K .                                                     100% 61,3M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:15:43 (353 MB/s) - »./static/paintings/bildnis-einer-jungen-frau-prinzessin-emilia-von-sachsen.html« gespeichert [2592/2592]
+2019-07-01 13:23:17 (61,3 MB/s) - »./static/graphics/christus-vor-herodes-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert [1415/1415]
 
---2019-06-24 09:15:45--  http://localhost/paintings/bildnis-eines-mannes
+--2019-07-01 13:23:19--  http://localhost/graphics/christus-vor-kaiphas-aus-der-passion-christi-folge-von-14-holzschnitten
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2113 (2,1K) [text/html]
-Wird in »./static/paintings/bildnis-eines-mannes.html« gespeichert.
+Länge: 1416 (1,4K) [text/html]
+Wird in »./static/graphics/christus-vor-kaiphas-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert.
 
-     0K ..                                                    100%  403M=0s
+     0K .                                                     100%  270M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:15:45 (403 MB/s) - »./static/paintings/bildnis-eines-mannes.html« gespeichert [2113/2113]
+2019-07-01 13:23:20 (270 MB/s) - »./static/graphics/christus-vor-kaiphas-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert [1416/1416]
 
---2019-06-24 09:15:47--  http://localhost/paintings/bildnis-eines-mannes-mit-einer-goldbestickten-mutze-lukas-spielhausen
+--2019-07-01 13:23:22--  http://localhost/graphics/das-dritte-turnier-mit-lanzen
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 3477 (3,4K) [text/html]
-Wird in »./static/paintings/bildnis-eines-mannes-mit-einer-goldbestickten-mutze-lukas-spielhausen.html« gespeichert.
+Länge: 1277 (1,2K) [text/html]
+Wird in »./static/graphics/das-dritte-turnier-mit-lanzen.html« gespeichert.
 
-     0K ...                                                   100%  829M=0s
+     0K .                                                     100%  244M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:15:48 (829 MB/s) - »./static/paintings/bildnis-eines-mannes-mit-einer-goldbestickten-mutze-lukas-spielhausen.html« gespeichert [3477/3477]
+2019-07-01 13:23:22 (244 MB/s) - »./static/graphics/das-dritte-turnier-mit-lanzen.html« gespeichert [1277/1277]
 
---2019-06-24 09:15:50--  http://localhost/paintings/bildnis-eines-mannes-mit-rosenkranz
+--2019-07-01 13:23:24--  http://localhost/graphics/das-martyrium-der-heiligen-barbara
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2767 (2,7K) [text/html]
-Wird in »./static/paintings/bildnis-eines-mannes-mit-rosenkranz.html« gespeichert.
+Länge: 1338 (1,3K) [text/html]
+Wird in »./static/graphics/das-martyrium-der-heiligen-barbara.html« gespeichert.
 
-     0K ..                                                    100%  528M=0s
+     0K .                                                     100%  142M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:15:50 (528 MB/s) - »./static/paintings/bildnis-eines-mannes-mit-rosenkranz.html« gespeichert [2767/2767]
+2019-07-01 13:23:25 (142 MB/s) - »./static/graphics/das-martyrium-der-heiligen-barbara.html« gespeichert [1338/1338]
 
---2019-06-24 09:15:52--  http://localhost/paintings/bildnis-eines-mannes-mit-rotem-bart
+--2019-07-01 13:23:27--  http://localhost/graphics/das-martyrium-des-apostels-andreas-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 3117 (3,0K) [text/html]
-Wird in »./static/paintings/bildnis-eines-mannes-mit-rotem-bart.html« gespeichert.
+Länge: 1411 (1,4K) [text/html]
+Wird in »./static/graphics/das-martyrium-des-apostels-andreas-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert.
 
-     0K ...                                                   100%  595M=0s
+     0K .                                                     100%  104M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:15:52 (595 MB/s) - »./static/paintings/bildnis-eines-mannes-mit-rotem-bart.html« gespeichert [3117/3117]
+2019-07-01 13:23:27 (104 MB/s) - »./static/graphics/das-martyrium-des-apostels-andreas-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert [1411/1411]
 
---2019-06-24 09:15:54--  http://localhost/paintings/bildnis-johann-friedrich-der-grossmutige-kurfurst-von-sachsen-1503-1554
+--2019-07-01 13:23:29--  http://localhost/graphics/das-martyrium-des-apostels-bartholomaus-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2378 (2,3K) [text/html]
-Wird in »./static/paintings/bildnis-johann-friedrich-der-grossmutige-kurfurst-von-sachsen-1503-1554.html« gespeichert.
+Länge: 1423 (1,4K) [text/html]
+Wird in »./static/graphics/das-martyrium-des-apostels-bartholomaus-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert.
 
-     0K ..                                                    100%  454M=0s
+     0K .                                                     100%  226M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:15:54 (454 MB/s) - »./static/paintings/bildnis-johann-friedrich-der-grossmutige-kurfurst-von-sachsen-1503-1554.html« gespeichert [2378/2378]
+2019-07-01 13:23:29 (226 MB/s) - »./static/graphics/das-martyrium-des-apostels-bartholomaus-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert [1423/1423]
 
---2019-06-24 09:15:56--  http://localhost/paintings/bildnis-johann-friedrichs-des-grossmutigen-kurfurst-von-sachsen-1503-1554
+--2019-07-01 13:23:31--  http://localhost/graphics/das-martyrium-des-apostels-jakobus-des-alteren-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2147 (2,1K) [text/html]
-Wird in »./static/paintings/bildnis-johann-friedrichs-des-grossmutigen-kurfurst-von-sachsen-1503-1554.html« gespeichert.
+Länge: 1437 (1,4K) [text/html]
+Wird in »./static/graphics/das-martyrium-des-apostels-jakobus-des-alteren-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert.
 
-     0K ..                                                    100%  410M=0s
+     0K .                                                     100%  228M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:15:57 (410 MB/s) - »./static/paintings/bildnis-johann-friedrichs-des-grossmutigen-kurfurst-von-sachsen-1503-1554.html« gespeichert [2147/2147]
+2019-07-01 13:23:32 (228 MB/s) - »./static/graphics/das-martyrium-des-apostels-jakobus-des-alteren-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert [1437/1437]
 
---2019-06-24 09:15:59--  http://localhost/paintings/bildnis-johanns-des-bestandigen-kurfurst-von-sachsen
+--2019-07-01 13:23:34--  http://localhost/graphics/das-martyrium-des-apostels-jakobus-des-jungeren-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2185 (2,1K) [text/html]
-Wird in »./static/paintings/bildnis-johanns-des-bestandigen-kurfurst-von-sachsen.html« gespeichert.
+Länge: 1439 (1,4K) [text/html]
+Wird in »./static/graphics/das-martyrium-des-apostels-jakobus-des-jungeren-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert.
 
-     0K ..                                                    100%  417M=0s
+     0K .                                                     100%  114M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:15:59 (417 MB/s) - »./static/paintings/bildnis-johanns-des-bestandigen-kurfurst-von-sachsen.html« gespeichert [2185/2185]
+2019-07-01 13:23:34 (114 MB/s) - »./static/graphics/das-martyrium-des-apostels-jakobus-des-jungeren-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert [1439/1439]
 
---2019-06-24 09:16:01--  http://localhost/paintings/bildnis-martin-luther
+--2019-07-01 13:23:36--  http://localhost/graphics/das-martyrium-des-apostels-johannes-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2398 (2,3K) [text/html]
-Wird in »./static/paintings/bildnis-martin-luther.html« gespeichert.
+Länge: 1413 (1,4K) [text/html]
+Wird in »./static/graphics/das-martyrium-des-apostels-johannes-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert.
 
-     0K ..                                                    100%  457M=0s
+     0K .                                                     100%  270M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:01 (457 MB/s) - »./static/paintings/bildnis-martin-luther.html« gespeichert [2398/2398]
+2019-07-01 13:23:37 (270 MB/s) - »./static/graphics/das-martyrium-des-apostels-johannes-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert [1413/1413]
 
---2019-06-24 09:16:03--  http://localhost/paintings/bildnis-martin-luthers
+--2019-07-01 13:23:39--  http://localhost/graphics/das-martyrium-des-apostels-judas-thaddaus-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2079 (2,0K) [text/html]
-Wird in »./static/paintings/bildnis-martin-luthers.html« gespeichert.
+Länge: 1427 (1,4K) [text/html]
+Wird in »./static/graphics/das-martyrium-des-apostels-judas-thaddaus-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert.
 
-     0K ..                                                    100%  397M=0s
+     0K .                                                     100%  227M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:03 (397 MB/s) - »./static/paintings/bildnis-martin-luthers.html« gespeichert [2079/2079]
+2019-07-01 13:23:39 (227 MB/s) - »./static/graphics/das-martyrium-des-apostels-judas-thaddaus-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert [1427/1427]
 
---2019-06-24 09:16:05--  http://localhost/paintings/bildnis-moritz-buchner
+--2019-07-01 13:23:41--  http://localhost/graphics/das-martyrium-des-apostels-matthias-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 3497 (3,4K) [text/html]
-Wird in »./static/paintings/bildnis-moritz-buchner.html« gespeichert.
+Länge: 1413 (1,4K) [text/html]
+Wird in »./static/graphics/das-martyrium-des-apostels-matthias-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert.
 
-     0K ...                                                   100%  667M=0s
+     0K .                                                     100%  112M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:06 (667 MB/s) - »./static/paintings/bildnis-moritz-buchner.html« gespeichert [3497/3497]
+2019-07-01 13:23:42 (112 MB/s) - »./static/graphics/das-martyrium-des-apostels-matthias-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert [1413/1413]
 
---2019-06-24 09:16:08--  http://localhost/paintings/christus-segnet-die-kinder
+--2019-07-01 13:23:44--  http://localhost/graphics/das-martyrium-des-apostels-paulus-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2250 (2,2K) [text/html]
-Wird in »./static/paintings/christus-segnet-die-kinder.html« gespeichert.
+Länge: 1409 (1,4K) [text/html]
+Wird in »./static/graphics/das-martyrium-des-apostels-paulus-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert.
 
-     0K ..                                                    100%  429M=0s
+     0K .                                                     100%  336M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:08 (429 MB/s) - »./static/paintings/christus-segnet-die-kinder.html« gespeichert [2250/2250]
+2019-07-01 13:23:44 (336 MB/s) - »./static/graphics/das-martyrium-des-apostels-paulus-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert [1409/1409]
 
---2019-06-24 09:16:10--  http://localhost/paintings/christus-und-die-ehebrecherin
+--2019-07-01 13:23:46--  http://localhost/graphics/das-martyrium-des-apostels-petrus-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 3192 (3,1K) [text/html]
-Wird in »./static/paintings/christus-und-die-ehebrecherin.html« gespeichert.
+Länge: 1409 (1,4K) [text/html]
+Wird in »./static/graphics/das-martyrium-des-apostels-petrus-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert.
 
-     0K ...                                                   100%  609M=0s
+     0K .                                                     100%  224M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:10 (609 MB/s) - »./static/paintings/christus-und-die-ehebrecherin.html« gespeichert [3192/3192]
+2019-07-01 13:23:47 (224 MB/s) - »./static/graphics/das-martyrium-des-apostels-petrus-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert [1409/1409]
 
---2019-06-24 09:16:12--  http://localhost/paintings/das-martyrium-der-hl-barbara
+--2019-07-01 13:23:49--  http://localhost/graphics/das-martyrium-des-apostels-philippus-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 4958 (4,8K) [text/html]
-Wird in »./static/paintings/das-martyrium-der-hl-barbara.html« gespeichert.
+Länge: 1415 (1,4K) [text/html]
+Wird in »./static/graphics/das-martyrium-des-apostels-philippus-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert.
 
-     0K ....                                                  100%  788M=0s
+     0K .                                                     100%  169M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:12 (788 MB/s) - »./static/paintings/das-martyrium-der-hl-barbara.html« gespeichert [4958/4958]
+2019-07-01 13:23:49 (169 MB/s) - »./static/graphics/das-martyrium-des-apostels-philippus-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert [1415/1415]
 
---2019-06-24 09:16:14--  http://localhost/paintings/das-parisurteil
+--2019-07-01 13:23:51--  http://localhost/graphics/das-martyrium-des-apostels-simon-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2250 (2,2K) [text/html]
-Wird in »./static/paintings/das-parisurteil.html« gespeichert.
+Länge: 1407 (1,4K) [text/html]
+Wird in »./static/graphics/das-martyrium-des-apostels-simon-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert.
 
-     0K ..                                                    100%  429M=0s
+     0K .                                                     100%  149M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:15 (429 MB/s) - »./static/paintings/das-parisurteil.html« gespeichert [2250/2250]
+2019-07-01 13:23:52 (149 MB/s) - »./static/graphics/das-martyrium-des-apostels-simon-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert [1407/1407]
 
---2019-06-24 09:16:17--  http://localhost/paintings/der-mund-der-wahrheit
+--2019-07-01 13:23:54--  http://localhost/graphics/das-martyrium-des-apostels-thomas-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2739 (2,7K) [text/html]
-Wird in »./static/paintings/der-mund-der-wahrheit.html« gespeichert.
+Länge: 1409 (1,4K) [text/html]
+Wird in »./static/graphics/das-martyrium-des-apostels-thomas-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert.
 
-     0K ..                                                    100%  522M=0s
+     0K .                                                     100%  224M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:17 (522 MB/s) - »./static/paintings/der-mund-der-wahrheit.html« gespeichert [2739/2739]
+2019-07-01 13:23:54 (224 MB/s) - »./static/graphics/das-martyrium-des-apostels-thomas-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html« gespeichert [1409/1409]
 
---2019-06-24 09:16:19--  http://localhost/paintings/die-kreuzigung
+--2019-07-01 13:23:56--  http://localhost/graphics/das-martyrium-des-heiligen-erasmus
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2321 (2,3K) [text/html]
-Wird in »./static/paintings/die-kreuzigung.html« gespeichert.
+Länge: 1287 (1,3K) [text/html]
+Wird in »./static/graphics/das-martyrium-des-heiligen-erasmus.html« gespeichert.
 
-     0K ..                                                    100%  443M=0s
+     0K .                                                     100%  153M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:19 (443 MB/s) - »./static/paintings/die-kreuzigung.html« gespeichert [2321/2321]
+2019-07-01 13:23:57 (153 MB/s) - »./static/graphics/das-martyrium-des-heiligen-erasmus.html« gespeichert [1287/1287]
 
---2019-06-24 09:16:21--  http://localhost/paintings/die-madonna-mit-dem-kinde-und-vier-weiblichen-heiligen
+--2019-07-01 13:23:59--  http://localhost/graphics/das-turnier-auf-dem-marktplatz
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2132 (2,1K) [text/html]
-Wird in »./static/paintings/die-madonna-mit-dem-kinde-und-vier-weiblichen-heiligen.html« gespeichert.
+Länge: 1279 (1,2K) [text/html]
+Wird in »./static/graphics/das-turnier-auf-dem-marktplatz.html« gespeichert.
 
-     0K ..                                                    100%  407M=0s
+     0K .                                                     100%  244M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:21 (407 MB/s) - »./static/paintings/die-madonna-mit-dem-kinde-und-vier-weiblichen-heiligen.html« gespeichert [2132/2132]
+2019-07-01 13:23:59 (244 MB/s) - »./static/graphics/das-turnier-auf-dem-marktplatz.html« gespeichert [1279/1279]
 
---2019-06-24 09:16:23--  http://localhost/paintings/friedrich-der-weise-kurfurst-von-sachsen-1463-1525-mit-den-heiligen-ursula-links-und-genoveva-rechts
+--2019-07-01 13:24:01--  http://localhost/graphics/das-urteil-des-paris
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2300 (2,2K) [text/html]
-Wird in »./static/paintings/friedrich-der-weise-kurfurst-von-sachsen-1463-1525-mit-den-heiligen-ursula-links-und-genoveva-rechts.html« gespeichert.
+Länge: 1248 (1,2K) [text/html]
+Wird in »./static/graphics/das-urteil-des-paris.html« gespeichert.
 
-     0K ..                                                    100%  439M=0s
+     0K .                                                     100%  170M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:23 (439 MB/s) - »./static/paintings/friedrich-der-weise-kurfurst-von-sachsen-1463-1525-mit-den-heiligen-ursula-links-und-genoveva-rechts.html« gespeichert [2300/2300]
+2019-07-01 13:24:02 (170 MB/s) - »./static/graphics/das-urteil-des-paris.html« gespeichert [1248/1248]
 
---2019-06-24 09:16:25--  http://localhost/paintings/friedrich-iii-der-weise-kurfurst-von-sachsen
+--2019-07-01 13:24:04--  http://localhost/graphics/das-vierte-turnier-mit-schwertern
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 3337 (3,3K) [text/html]
-Wird in »./static/paintings/friedrich-iii-der-weise-kurfurst-von-sachsen.html« gespeichert.
+Länge: 1285 (1,3K) [text/html]
+Wird in »./static/graphics/das-vierte-turnier-mit-schwertern.html« gespeichert.
 
-     0K ...                                                   100%  636M=0s
+     0K .                                                     100%  245M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:26 (636 MB/s) - »./static/paintings/friedrich-iii-der-weise-kurfurst-von-sachsen.html« gespeichert [3337/3337]
+2019-07-01 13:24:04 (245 MB/s) - »./static/graphics/das-vierte-turnier-mit-schwertern.html« gespeichert [1285/1285]
 
---2019-06-24 09:16:28--  http://localhost/paintings/herkules-mit-omphale
+--2019-07-01 13:24:06--  http://localhost/graphics/das-von-christus-und-dem-hl-geist-erfullte-herz-des-glaubigen
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2017 (2,0K) [text/html]
-Wird in »./static/paintings/herkules-mit-omphale.html« gespeichert.
+Länge: 1345 (1,3K) [text/html]
+Wird in »./static/graphics/das-von-christus-und-dem-hl-geist-erfullte-herz-des-glaubigen.html« gespeichert.
 
-     0K .                                                     100%  385M=0s
+     0K .                                                     100%  257M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:28 (385 MB/s) - »./static/paintings/herkules-mit-omphale.html« gespeichert [2017/2017]
+2019-07-01 13:24:07 (257 MB/s) - »./static/graphics/das-von-christus-und-dem-hl-geist-erfullte-herz-des-glaubigen.html« gespeichert [1345/1345]
 
---2019-06-24 09:16:30--  http://localhost/paintings/hirschjagd-friedrichs-des-weisen-1463-1525-kurfurst-von-sachsen
+--2019-07-01 13:24:09--  http://localhost/graphics/das-zweite-turnier-mit-lanzen-und-schwertern-sowie-balkonteppich
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2273 (2,2K) [text/html]
-Wird in »./static/paintings/hirschjagd-friedrichs-des-weisen-1463-1525-kurfurst-von-sachsen.html« gespeichert.
+Länge: 1347 (1,3K) [text/html]
+Wird in »./static/graphics/das-zweite-turnier-mit-lanzen-und-schwertern-sowie-balkonteppich.html« gespeichert.
 
-     0K ..                                                    100%  434M=0s
+     0K .                                                     100%  321M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:30 (434 MB/s) - »./static/paintings/hirschjagd-friedrichs-des-weisen-1463-1525-kurfurst-von-sachsen.html« gespeichert [2273/2273]
+2019-07-01 13:24:10 (321 MB/s) - »./static/graphics/das-zweite-turnier-mit-lanzen-und-schwertern-sowie-balkonteppich.html« gespeichert [1347/1347]
 
---2019-06-24 09:16:32--  http://localhost/paintings/hl-maurizius
+--2019-07-01 13:24:12--  http://localhost/graphics/der-heilige-georg
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 3913 (3,8K) [text/html]
-Wird in »./static/paintings/hl-maurizius.html« gespeichert.
+Länge: 1253 (1,2K) [text/html]
+Wird in »./static/graphics/der-heilige-georg.html« gespeichert.
 
-     0K ...                                                   100%  466M=0s
+     0K .                                                     100%  171M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:32 (466 MB/s) - »./static/paintings/hl-maurizius.html« gespeichert [3913/3913]
+2019-07-01 13:24:12 (171 MB/s) - »./static/graphics/der-heilige-georg.html« gespeichert [1253/1253]
 
---2019-06-24 09:16:34--  http://localhost/paintings/johann-herzog-von-sachsen
+--2019-07-01 13:24:14--  http://localhost/graphics/der-heilige-georg-zu-pferd
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2986 (2,9K) [text/html]
-Wird in »./static/paintings/johann-herzog-von-sachsen.html« gespeichert.
+Länge: 1262 (1,2K) [text/html]
+Wird in »./static/graphics/der-heilige-georg-zu-pferd.html« gespeichert.
 
-     0K ..                                                    100% 77,0M=0s
+     0K .                                                     100%  201M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:34 (77,0 MB/s) - »./static/paintings/johann-herzog-von-sachsen.html« gespeichert [2986/2986]
+2019-07-01 13:24:15 (201 MB/s) - »./static/graphics/der-heilige-georg-zu-pferd.html« gespeichert [1262/1262]
 
---2019-06-24 09:16:36--  http://localhost/paintings/johann-i-der-bestandige-kurfurst-von-sachsen
+--2019-07-01 13:24:17--  http://localhost/graphics/der-heilige-michael-als-seelenwager
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 3313 (3,2K) [text/html]
-Wird in »./static/paintings/johann-i-der-bestandige-kurfurst-von-sachsen.html« gespeichert.
+Länge: 1280 (1,2K) [text/html]
+Wird in »./static/graphics/der-heilige-michael-als-seelenwager.html« gespeichert.
 
-     0K ...                                                   100%  632M=0s
+     0K .                                                     100%  174M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:36 (632 MB/s) - »./static/paintings/johann-i-der-bestandige-kurfurst-von-sachsen.html« gespeichert [3313/3313]
+2019-07-01 13:24:18 (174 MB/s) - »./static/graphics/der-heilige-michael-als-seelenwager.html« gespeichert [1280/1280]
 
---2019-06-24 09:16:38--  http://localhost/paintings/judith-mit-dem-kopf-des-holofernes
+--2019-07-01 13:24:20--  http://localhost/graphics/der-heilige-paulus-aus-dem-wittenberger-heiltumsbuch-wittenberg-1509-sechster-gang-nr-xiii
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 4516 (4,4K) [text/html]
-Wird in »./static/paintings/judith-mit-dem-kopf-des-holofernes.html« gespeichert.
+Länge: 1412 (1,4K) [text/html]
+Wird in »./static/graphics/der-heilige-paulus-aus-dem-wittenberger-heiltumsbuch-wittenberg-1509-sechster-gang-nr-xiii.html« gespeichert.
 
-     0K ....                                                  100%  718M=0s
+     0K .                                                     100%  224M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:39 (718 MB/s) - »./static/paintings/judith-mit-dem-kopf-des-holofernes.html« gespeichert [4516/4516]
+2019-07-01 13:24:20 (224 MB/s) - »./static/graphics/der-heilige-paulus-aus-dem-wittenberger-heiltumsbuch-wittenberg-1509-sechster-gang-nr-xiii.html« gespeichert [1412/1412]
 
---2019-06-24 09:16:41--  http://localhost/paintings/liegende-quellnymphe
+--2019-07-01 13:24:22--  http://localhost/graphics/der-heilige-petrus-aus-dem-wittenberger-heiltumsbuch-wittenberg-1509-sechster-gang-nr-xvi
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2805 (2,7K) [text/html]
-Wird in »./static/paintings/liegende-quellnymphe.html« gespeichert.
+Länge: 1409 (1,4K) [text/html]
+Wird in »./static/graphics/der-heilige-petrus-aus-dem-wittenberger-heiltumsbuch-wittenberg-1509-sechster-gang-nr-xvi.html« gespeichert.
 
-     0K ..                                                    100%  535M=0s
+     0K .                                                     100%  149M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:41 (535 MB/s) - »./static/paintings/liegende-quellnymphe.html« gespeichert [2805/2805]
+2019-07-01 13:24:23 (149 MB/s) - »./static/graphics/der-heilige-petrus-aus-dem-wittenberger-heiltumsbuch-wittenberg-1509-sechster-gang-nr-xvi.html« gespeichert [1409/1409]
 
---2019-06-24 09:16:43--  http://localhost/paintings/lucretia
+--2019-07-01 13:24:25--  http://localhost/graphics/der-hl-augustin-in-anbetung-des-schmerzensmannes
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 3352 (3,3K) [text/html]
-Wird in »./static/paintings/lucretia.html« gespeichert.
+Länge: 1317 (1,3K) [text/html]
+Wird in »./static/graphics/der-hl-augustin-in-anbetung-des-schmerzensmannes.html« gespeichert.
 
-     0K ...                                                   100%  639M=0s
+     0K .                                                     100%  179M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:43 (639 MB/s) - »./static/paintings/lucretia.html« gespeichert [3352/3352]
+2019-07-01 13:24:25 (179 MB/s) - »./static/graphics/der-hl-augustin-in-anbetung-des-schmerzensmannes.html« gespeichert [1317/1317]
 
---2019-06-24 09:16:45--  http://localhost/paintings/madonna-mit-kind
+--2019-07-01 13:24:27--  http://localhost/graphics/der-opfertod-des-marcus-curtius
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2486 (2,4K) [text/html]
-Wird in »./static/paintings/madonna-mit-kind.html« gespeichert.
+Länge: 1282 (1,3K) [text/html]
+Wird in »./static/graphics/der-opfertod-des-marcus-curtius.html« gespeichert.
 
-     0K ..                                                    100%  474M=0s
+     0K .                                                     100%  136M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:45 (474 MB/s) - »./static/paintings/madonna-mit-kind.html« gespeichert [2486/2486]
+2019-07-01 13:24:28 (136 MB/s) - »./static/graphics/der-opfertod-des-marcus-curtius.html« gespeichert [1282/1282]
 
---2019-06-24 09:16:47--  http://localhost/paintings/madonna-und-kind-mit-dem-johannesknaben
+--2019-07-01 13:24:30--  http://localhost/graphics/der-werwolf
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2168 (2,1K) [text/html]
-Wird in »./static/paintings/madonna-und-kind-mit-dem-johannesknaben.html« gespeichert.
+Länge: 1232 (1,2K) [text/html]
+Wird in »./static/graphics/der-werwolf.html« gespeichert.
 
-     0K ..                                                    100%  414M=0s
+     0K .                                                     100%  235M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:48 (414 MB/s) - »./static/paintings/madonna-und-kind-mit-dem-johannesknaben.html« gespeichert [2168/2168]
+2019-07-01 13:24:30 (235 MB/s) - »./static/graphics/der-werwolf.html« gespeichert [1232/1232]
 
---2019-06-24 09:16:50--  http://localhost/paintings/madonna-und-kind-mit-den-heiligen-katharina-und-barbara
+--2019-07-01 13:24:32--  http://localhost/graphics/die-auferstehung-aus-der-passion-christi-folge-von-14-holzschnitten
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2259 (2,2K) [text/html]
-Wird in »./static/paintings/madonna-und-kind-mit-den-heiligen-katharina-und-barbara.html« gespeichert.
+Länge: 1408 (1,4K) [text/html]
+Wird in »./static/graphics/die-auferstehung-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert.
 
-     0K ..                                                    100%  539M=0s
+     0K .                                                     100%  168M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:50 (539 MB/s) - »./static/paintings/madonna-und-kind-mit-den-heiligen-katharina-und-barbara.html« gespeichert [2259/2259]
+2019-07-01 13:24:33 (168 MB/s) - »./static/graphics/die-auferstehung-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert [1408/1408]
 
---2019-06-24 09:16:52--  http://localhost/paintings/martin-luther
+--2019-07-01 13:24:35--  http://localhost/graphics/die-beweinung-christi-aus-der-passion-christi-folge-von-14-holzschnitten
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2513 (2,5K) [text/html]
-Wird in »./static/paintings/martin-luther.html« gespeichert.
+Länge: 1418 (1,4K) [text/html]
+Wird in »./static/graphics/die-beweinung-christi-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert.
 
-     0K ..                                                    100%  479M=0s
+     0K .                                                     100%  270M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:52 (479 MB/s) - »./static/paintings/martin-luther.html« gespeichert [2513/2513]
+2019-07-01 13:24:35 (270 MB/s) - »./static/graphics/die-beweinung-christi-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert [1418/1418]
 
---2019-06-24 09:16:54--  http://localhost/paintings/melancholie
+--2019-07-01 13:24:37--  http://localhost/graphics/die-busse-des-hl-hieronymus
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2241 (2,2K) [text/html]
-Wird in »./static/paintings/melancholie.html« gespeichert.
+Länge: 1275 (1,2K) [text/html]
+Wird in »./static/graphics/die-busse-des-hl-hieronymus.html« gespeichert.
 
-     0K ..                                                    100%  534M=0s
+     0K .                                                     100%  243M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:54 (534 MB/s) - »./static/paintings/melancholie.html« gespeichert [2241/2241]
+2019-07-01 13:24:38 (243 MB/s) - »./static/graphics/die-busse-des-hl-hieronymus.html« gespeichert [1275/1275]
 
---2019-06-24 09:16:56--  http://localhost/paintings/parisurteil
+--2019-07-01 13:24:40--  http://localhost/graphics/die-dornenkronung-aus-der-passion-christi-folge-von-14-holzschnitten
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 6246 (6,1K) [text/html]
-Wird in »./static/paintings/parisurteil.html« gespeichert.
+Länge: 7326 (7,2K) [text/html]
+Wird in »./static/graphics/die-dornenkronung-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert.
 
-     0K ......                                                100% 1,16G=0s
+     0K .......                                               100%  499M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:57 (1,16 GB/s) - »./static/paintings/parisurteil.html« gespeichert [6246/6246]
+2019-07-01 13:24:40 (499 MB/s) - »./static/graphics/die-dornenkronung-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert [7326/7326]
 
---2019-06-24 09:16:59--  http://localhost/paintings/philipp-melanchthon
+--2019-07-01 13:24:42--  http://localhost/graphics/die-geisselung-aus-der-passion-christi-folge-von-14-holzschnitten
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2183 (2,1K) [text/html]
-Wird in »./static/paintings/philipp-melanchthon.html« gespeichert.
+Länge: 1404 (1,4K) [text/html]
+Wird in »./static/graphics/die-geisselung-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert.
 
-     0K ..                                                    100%  347M=0s
+     0K .                                                     100% 2,47M=0,001s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:16:59 (347 MB/s) - »./static/paintings/philipp-melanchthon.html« gespeichert [2183/2183]
+2019-07-01 13:24:42 (2,47 MB/s) - »./static/graphics/die-geisselung-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert [1404/1404]
 
---2019-06-24 09:17:01--  http://localhost/paintings/quellnymphe
+--2019-07-01 13:24:45--  http://localhost/graphics/die-grablegung-aus-der-passion-christi-folge-von-14-holzschnitten
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 4958 (4,8K) [text/html]
-Wird in »./static/paintings/quellnymphe.html« gespeichert.
+Länge: 1404 (1,4K) [text/html]
+Wird in »./static/graphics/die-grablegung-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert.
 
-     0K ....                                                  100%  430M=0s
+     0K .                                                     100%  268M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:17:01 (430 MB/s) - »./static/paintings/quellnymphe.html« gespeichert [4958/4958]
+2019-07-01 13:24:45 (268 MB/s) - »./static/graphics/die-grablegung-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert [1404/1404]
 
---2019-06-24 09:17:03--  http://localhost/paintings/samson-und-delilah
+--2019-07-01 13:24:47--  http://localhost/graphics/die-himmelsleiter-des-heiligen-bonaventura
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2686 (2,6K) [text/html]
-Wird in »./static/paintings/samson-und-delilah.html« gespeichert.
+Länge: 1303 (1,3K) [text/html]
+Wird in »./static/graphics/die-himmelsleiter-des-heiligen-bonaventura.html« gespeichert.
 
-     0K ..                                                    100%  366M=0s
+     0K .                                                     100%  311M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:17:03 (366 MB/s) - »./static/paintings/samson-und-delilah.html« gespeichert [2686/2686]
+2019-07-01 13:24:47 (311 MB/s) - »./static/graphics/die-himmelsleiter-des-heiligen-bonaventura.html« gespeichert [1303/1303]
 
---2019-06-24 09:17:05--  http://localhost/paintings/sibylle-kurfurstin-von-sachsen
+--2019-07-01 13:24:49--  http://localhost/graphics/die-holle
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2039 (2,0K) [text/html]
-Wird in »./static/paintings/sibylle-kurfurstin-von-sachsen.html« gespeichert.
+Länge: 1235 (1,2K) [text/html]
+Wird in »./static/graphics/die-holle.html« gespeichert.
 
-     0K .                                                     100%  389M=0s
+     0K .                                                     100%  236M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:17:06 (389 MB/s) - »./static/paintings/sibylle-kurfurstin-von-sachsen.html« gespeichert [2039/2039]
+2019-07-01 13:24:50 (236 MB/s) - »./static/graphics/die-holle.html« gespeichert [1235/1235]
 
---2019-06-24 09:17:08--  http://localhost/paintings/urteil-des-paris
+--2019-07-01 13:24:52--  http://localhost/graphics/die-kreuzigung
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2847 (2,8K) [text/html]
-Wird in »./static/paintings/urteil-des-paris.html« gespeichert.
+Länge: 1247 (1,2K) [text/html]
+Wird in »./static/graphics/die-kreuzigung.html« gespeichert.
 
-     0K ..                                                    100%  543M=0s
+     0K .                                                     100%  149M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:17:08 (543 MB/s) - »./static/paintings/urteil-des-paris.html« gespeichert [2847/2847]
+2019-07-01 13:24:52 (149 MB/s) - »./static/graphics/die-kreuzigung.html« gespeichert [1247/1247]
 
---2019-06-24 09:17:10--  http://localhost/paintings/venus-mit-amor-als-honigdieb
+--2019-07-01 13:24:54--  http://localhost/graphics/die-kreuzigung-aus-der-passion-christi-folge-von-14-holzschnitten
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2241 (2,2K) [text/html]
-Wird in »./static/paintings/venus-mit-amor-als-honigdieb.html« gespeichert.
+Länge: 1404 (1,4K) [text/html]
+Wird in »./static/graphics/die-kreuzigung-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert.
 
-     0K ..                                                    100%  534M=0s
+     0K .                                                     100%  223M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:17:10 (534 MB/s) - »./static/paintings/venus-mit-amor-als-honigdieb.html« gespeichert [2241/2241]
+2019-07-01 13:24:54 (223 MB/s) - »./static/graphics/die-kreuzigung-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert [1404/1404]
 
---2019-06-24 09:17:12--  http://localhost/paintings/venus-und-amor
+--2019-07-01 13:24:56--  http://localhost/graphics/die-kreuzigung-christi
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
-Länge: 2569 (2,5K) [text/html]
-Wird in »./static/paintings/venus-und-amor.html« gespeichert.
+Länge: 1262 (1,2K) [text/html]
+Wird in »./static/graphics/die-kreuzigung-christi.html« gespeichert.
 
-     0K ..                                                    100%  490M=0s
+     0K .                                                     100%  241M=0s
 
 »Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
-2019-06-24 09:17:12 (490 MB/s) - »./static/paintings/venus-und-amor.html« gespeichert [2569/2569]
+2019-07-01 13:24:57 (241 MB/s) - »./static/graphics/die-kreuzigung-christi.html« gespeichert [1262/1262]
 
---2019-06-24 09:17:14--  http://localhost/assets/fonts/Roboto/Roboto-Light.ttf
+--2019-07-01 13:24:59--  http://localhost/graphics/die-kreuzigung-holzschnitt-zu-adam-von-fulda-ein-ser-andechtig-cristenlich-buchlein-wittenberg-1512
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1433 (1,4K) [text/html]
+Wird in »./static/graphics/die-kreuzigung-holzschnitt-zu-adam-von-fulda-ein-ser-andechtig-cristenlich-buchlein-wittenberg-1512.html« gespeichert.
+
+     0K .                                                     100%  273M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:24:59 (273 MB/s) - »./static/graphics/die-kreuzigung-holzschnitt-zu-adam-von-fulda-ein-ser-andechtig-cristenlich-buchlein-wittenberg-1512.html« gespeichert [1433/1433]
+
+--2019-07-01 13:25:01--  http://localhost/graphics/die-kreuztragung-aus-der-passion-christi-folge-von-14-holzschnitten
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1408 (1,4K) [text/html]
+Wird in »./static/graphics/die-kreuztragung-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert.
+
+     0K .                                                     100%  269M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:02 (269 MB/s) - »./static/graphics/die-kreuztragung-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert [1408/1408]
+
+--2019-07-01 13:25:04--  http://localhost/graphics/doppelbildnis-friedrichs-des-weise-kurfurst-von-sachsen-und-johann-des-bestandigen-herzog-von-sachsen-titelbild-des-wittenberger-heiltumbuchs
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1517 (1,5K) [text/html]
+Wird in »./static/graphics/doppelbildnis-friedrichs-des-weise-kurfurst-von-sachsen-und-johann-des-bestandigen-herzog-von-sachsen-titelbild-des-wittenberger-heiltumbuchs.html« gespeichert.
+
+     0K .                                                     100%  241M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:04 (241 MB/s) - »./static/graphics/doppelbildnis-friedrichs-des-weise-kurfurst-von-sachsen-und-johann-des-bestandigen-herzog-von-sachsen-titelbild-des-wittenberger-heiltumbuchs.html« gespeichert [1517/1517]
+
+--2019-07-01 13:25:06--  http://localhost/graphics/ecce-homo-aus-der-passion-christi-folge-von-14-holzschnitten
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1394 (1,4K) [text/html]
+Wird in »./static/graphics/ecce-homo-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert.
+
+     0K .                                                     100%  266M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:06 (266 MB/s) - »./static/graphics/ecce-homo-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert [1394/1394]
+
+--2019-07-01 13:25:08--  http://localhost/graphics/friedrich-der-weise-kurfurst-von-sachsen-den-heiligen-bartholomaus-anbetend
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1379 (1,3K) [text/html]
+Wird in »./static/graphics/friedrich-der-weise-kurfurst-von-sachsen-den-heiligen-bartholomaus-anbetend.html« gespeichert.
+
+     0K .                                                     100%  219M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:09 (219 MB/s) - »./static/graphics/friedrich-der-weise-kurfurst-von-sachsen-den-heiligen-bartholomaus-anbetend.html« gespeichert [1379/1379]
+
+--2019-07-01 13:25:11--  http://localhost/graphics/gefangennahme-aus-der-passion-christi-folge-von-14-holzschnitten
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1404 (1,4K) [text/html]
+Wird in »./static/graphics/gefangennahme-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert.
+
+     0K .                                                     100%  335M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:11 (335 MB/s) - »./static/graphics/gefangennahme-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert [1404/1404]
+
+--2019-07-01 13:25:13--  http://localhost/graphics/grosse-hirschjagd
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1280 (1,2K) [text/html]
+Wird in »./static/graphics/grosse-hirschjagd.html« gespeichert.
+
+     0K .                                                     100%  122M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:13 (122 MB/s) - »./static/graphics/grosse-hirschjagd.html« gespeichert [1280/1280]
+
+--2019-07-01 13:25:15--  http://localhost/graphics/handwaschung-des-pilatus-aus-der-passion-christi-folge-von-14-holzschnitten
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1424 (1,4K) [text/html]
+Wird in »./static/graphics/handwaschung-des-pilatus-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert.
+
+     0K .                                                     100%  272M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:16 (272 MB/s) - »./static/graphics/handwaschung-des-pilatus-aus-der-passion-christi-folge-von-14-holzschnitten.html« gespeichert [1424/1424]
+
+--2019-07-01 13:25:18--  http://localhost/graphics/hl-christophorus
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1305 (1,3K) [text/html]
+Wird in »./static/graphics/hl-christophorus.html« gespeichert.
+
+     0K .                                                     100%  207M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:18 (207 MB/s) - »./static/graphics/hl-christophorus.html« gespeichert [1305/1305]
+
+--2019-07-01 13:25:20--  http://localhost/graphics/hl-georg-zu-pferd-mit-dem-schwert-gegen-den-drachen-kampfend
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1333 (1,3K) [text/html]
+Wird in »./static/graphics/hl-georg-zu-pferd-mit-dem-schwert-gegen-den-drachen-kampfend.html« gespeichert.
+
+     0K .                                                     100%  182M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:21 (182 MB/s) - »./static/graphics/hl-georg-zu-pferd-mit-dem-schwert-gegen-den-drachen-kampfend.html« gespeichert [1333/1333]
+
+--2019-07-01 13:25:23--  http://localhost/graphics/hl-stephanus
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1245 (1,2K) [text/html]
+Wird in »./static/graphics/hl-stephanus.html« gespeichert.
+
+     0K .                                                     100%  237M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:23 (237 MB/s) - »./static/graphics/hl-stephanus.html« gespeichert [1245/1245]
+
+--2019-07-01 13:25:25--  http://localhost/graphics/kardinal-albrecht-von-brandenburg-erzbischof-und-kurfurst-von-mainz
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1359 (1,3K) [text/html]
+Wird in »./static/graphics/kardinal-albrecht-von-brandenburg-erzbischof-und-kurfurst-von-mainz.html« gespeichert.
+
+     0K .                                                     100%  108M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:25 (108 MB/s) - »./static/graphics/kardinal-albrecht-von-brandenburg-erzbischof-und-kurfurst-von-mainz.html« gespeichert [1359/1359]
+
+--2019-07-01 13:25:27--  http://localhost/graphics/landsknecht-und-dame
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1273 (1,2K) [text/html]
+Wird in »./static/graphics/landsknecht-und-dame.html« gespeichert.
+
+     0K .                                                     100%  243M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:28 (243 MB/s) - »./static/graphics/landsknecht-und-dame.html« gespeichert [1273/1273]
+
+--2019-07-01 13:25:30--  http://localhost/graphics/luther-als-junker-jorg
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1265 (1,2K) [text/html]
+Wird in »./static/graphics/luther-als-junker-jorg.html« gespeichert.
+
+     0K .                                                     100%  201M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:30 (201 MB/s) - »./static/graphics/luther-als-junker-jorg.html« gespeichert [1265/1265]
+
+--2019-07-01 13:25:32--  http://localhost/graphics/maria-magdalena-von-engeln-zu-himmel-getragen
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1309 (1,3K) [text/html]
+Wird in »./static/graphics/maria-magdalena-von-engeln-zu-himmel-getragen.html« gespeichert.
+
+     0K .                                                     100%  250M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:32 (250 MB/s) - »./static/graphics/maria-magdalena-von-engeln-zu-himmel-getragen.html« gespeichert [1309/1309]
+
+--2019-07-01 13:25:34--  http://localhost/graphics/maria-und-johannes-unter-dem-gekreuzigten
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1290 (1,3K) [text/html]
+Wird in »./static/graphics/maria-und-johannes-unter-dem-gekreuzigten.html« gespeichert.
+
+     0K .                                                     100%  246M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:35 (246 MB/s) - »./static/graphics/maria-und-johannes-unter-dem-gekreuzigten.html« gespeichert [1290/1290]
+
+--2019-07-01 13:25:37--  http://localhost/graphics/martin-luther-als-augustinermonch
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1286 (1,3K) [text/html]
+Wird in »./static/graphics/martin-luther-als-augustinermonch.html« gespeichert.
+
+     0K .                                                     100%  245M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:37 (245 MB/s) - »./static/graphics/martin-luther-als-augustinermonch.html« gespeichert [1286/1286]
+
+--2019-07-01 13:25:39--  http://localhost/graphics/peinigung-des-hl-antonius
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1269 (1,2K) [text/html]
+Wird in »./static/graphics/peinigung-des-hl-antonius.html« gespeichert.
+
+     0K .                                                     100%  242M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:39 (242 MB/s) - »./static/graphics/peinigung-des-hl-antonius.html« gespeichert [1269/1269]
+
+--2019-07-01 13:25:41--  http://localhost/graphics/prinz-auf-einem-pferd-reitend
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1277 (1,2K) [text/html]
+Wird in »./static/graphics/prinz-auf-einem-pferd-reitend.html« gespeichert.
+
+     0K .                                                     100%  174M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:42 (174 MB/s) - »./static/graphics/prinz-auf-einem-pferd-reitend.html« gespeichert [1277/1277]
+
+--2019-07-01 13:25:44--  http://localhost/graphics/reiter-im-wald-auf-wildschweinjagd
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1286 (1,3K) [text/html]
+Wird in »./static/graphics/reiter-im-wald-auf-wildschweinjagd.html« gespeichert.
+
+     0K .                                                     100%  175M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:44 (175 MB/s) - »./static/graphics/reiter-im-wald-auf-wildschweinjagd.html« gespeichert [1286/1286]
+
+--2019-07-01 13:25:46--  http://localhost/graphics/ritter-nach-rechts-reitend
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1271 (1,2K) [text/html]
+Wird in »./static/graphics/ritter-nach-rechts-reitend.html« gespeichert.
+
+     0K .                                                     100%  202M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:47 (202 MB/s) - »./static/graphics/ritter-nach-rechts-reitend.html« gespeichert [1271/1271]
+
+--2019-07-01 13:25:49--  http://localhost/graphics/venus-und-cupido
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1249 (1,2K) [text/html]
+Wird in »./static/graphics/venus-und-cupido.html« gespeichert.
+
+     0K .                                                     100%  238M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:49 (238 MB/s) - »./static/graphics/venus-und-cupido.html« gespeichert [1249/1249]
+
+--2019-07-01 13:25:51--  http://localhost/graphics/vornehmes-paar-auf-einem-pferd-reitend
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1296 (1,3K) [text/html]
+Wird in »./static/graphics/vornehmes-paar-auf-einem-pferd-reitend.html« gespeichert.
+
+     0K .                                                     100%  309M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:51 (309 MB/s) - »./static/graphics/vornehmes-paar-auf-einem-pferd-reitend.html« gespeichert [1296/1296]
+
+--2019-07-01 13:25:53--  http://localhost/graphics/wappen-des-herzogs-johann-des-bestandigen-von-sachsen-holzschnitt-zum-wittenberger-heiltumsbuch-wittenberg-1509
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: 1440 (1,4K) [text/html]
+Wird in »./static/graphics/wappen-des-herzogs-johann-des-bestandigen-von-sachsen-holzschnitt-zum-wittenberger-heiltumsbuch-wittenberg-1509.html« gespeichert.
+
+     0K .                                                     100%  275M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:25:54 (275 MB/s) - »./static/graphics/wappen-des-herzogs-johann-des-bestandigen-von-sachsen-holzschnitt-zum-wittenberger-heiltumsbuch-wittenberg-1509.html« gespeichert [1440/1440]
+
+--2019-07-01 13:25:56--  http://localhost/assets/fonts/IBM_Plex_Sans/IBMPlexSans-ExtraLight.ttf
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 304 Not Modified
-Datei »./static/assets/fonts/Roboto/Roboto-Light.ttf« auf dem Server unverändert. Wird nicht heruntergeladen.
---2019-06-24 09:17:16--  http://localhost/assets/fonts/Roboto/Roboto-Regular.ttf
+Datei »./static/assets/fonts/IBM_Plex_Sans/IBMPlexSans-ExtraLight.ttf« auf dem Server unverändert. Wird nicht heruntergeladen.
+--2019-07-01 13:25:58--  http://localhost/assets/fonts/IBM_Plex_Sans/IBMPlexSans.ttf
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 404 Not Found
+2019-07-01 13:25:58 FEHLER 404: Not Found.
+
+--2019-07-01 13:26:00--  http://localhost/assets/fonts/IBM_Plex_Sans/IBMPlexSans-Medium.ttf
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 304 Not Modified
-Datei »./static/assets/fonts/Roboto/Roboto-Regular.ttf« auf dem Server unverändert. Wird nicht heruntergeladen.
---2019-06-24 09:17:18--  http://localhost/assets/fonts/Roboto/Roboto-Bold.ttf
+Datei »./static/assets/fonts/IBM_Plex_Sans/IBMPlexSans-Medium.ttf« auf dem Server unverändert. Wird nicht heruntergeladen.
+--2019-07-01 13:26:02--  http://localhost/assets/fonts/IBM_Plex_Mono/IBMPlexMono-Medium.ttf
 Wiederverwendung der bestehenden Verbindung zu localhost:80.
 HTTP-Anforderung gesendet, auf Antwort wird gewartet … 304 Not Modified
-Datei »./static/assets/fonts/Roboto/Roboto-Bold.ttf« auf dem Server unverändert. Wird nicht heruntergeladen.
-BEENDET --2019-06-24 09:17:18--
-Verstrichene Zeit: 1m 53s
-Geholt: 47 Dateien, 171K in 0,001s (292 MB/s)
-Umwandlung von Links in »./static/paintings/madonna-mit-kind.html«… 3-0
-Umwandlung von Links in »./static/paintings/philipp-melanchthon.html«… 3-0
-Umwandlung von Links in »./static/paintings/bildnis-der-katharina-von-bora.html«… 3-0
-Umwandlung von Links in »./static/paintings/das-parisurteil.html«… 3-0
-Umwandlung von Links in »./static/paintings/venus-mit-amor-als-honigdieb.html«… 3-0
-Umwandlung von Links in »./static/paintings/bildnis-johanns-des-bestandigen-kurfurst-von-sachsen.html«… 3-0
-Umwandlung von Links in »./static/paintings/madonna-und-kind-mit-dem-johannesknaben.html«… 3-0
-Umwandlung von Links in »./static/paintings/johann-herzog-von-sachsen.html«… 3-0
-Umwandlung von Links in »./static/paintings/johann-i-der-bestandige-kurfurst-von-sachsen.html«… 3-0
-Umwandlung von Links in »./static/paintings/judith-mit-dem-kopf-des-holofernes.html«… 3-0
-Umwandlung von Links in »./static/paintings/bildnis-eines-mannes-mit-rosenkranz.html«… 3-0
-Umwandlung von Links in »./static/paintings/quellnymphe.html«… 3-0
-Umwandlung von Links in »./static/paintings/martin-luther.html«… 3-0
-Umwandlung von Links in »./static/paintings/die-madonna-mit-dem-kinde-und-vier-weiblichen-heiligen.html«… 3-0
-Umwandlung von Links in »./static/paintings/madonna-und-kind-mit-den-heiligen-katharina-und-barbara.html«… 3-0
-Umwandlung von Links in »./static/paintings/christus-segnet-die-kinder.html«… 3-0
-Umwandlung von Links in »./static/paintings/friedrich-iii-der-weise-kurfurst-von-sachsen.html«… 3-0
-Umwandlung von Links in »./static/paintings/bildnis-johann-friedrichs-des-grossmutigen-kurfurst-von-sachsen-1503-1554.html«… 3-0
-Umwandlung von Links in »./static/paintings/das-martyrium-der-hl-barbara.html«… 3-0
-Umwandlung von Links in »./static/paintings/bildnis-moritz-buchner.html«… 3-0
-Umwandlung von Links in »./static/paintings/christus-und-die-ehebrecherin.html«… 3-0
-Umwandlung von Links in »./static/paintings/herkules-mit-omphale.html«… 3-0
-Umwandlung von Links in »./static/paintings/die-kreuzigung.html«… 3-0
-Umwandlung von Links in »./static/paintings/melancholie.html«… 3-0
-Umwandlung von Links in »./static/paintings/bildnis-barbaras-der-herzogin-von-sachsen-1478-1534-gemahlin-von-georg-dem-bartigen.html«… 3-0
-Umwandlung von Links in »./static/paintings/bildnis-martin-luther.html«… 3-0
-Umwandlung von Links in »./static/paintings/bildnis-einer-jungen-frau-prinzessin-emilia-von-sachsen.html«… 3-0
-Umwandlung von Links in »./static/paintings/hirschjagd-friedrichs-des-weisen-1463-1525-kurfurst-von-sachsen.html«… 3-0
-Umwandlung von Links in »./static/paintings/friedrich-der-weise-kurfurst-von-sachsen-1463-1525-mit-den-heiligen-ursula-links-und-genoveva-rechts.html«… 3-0
-Umwandlung von Links in »./static/paintings/venus-und-amor.html«… 3-0
-Umwandlung von Links in »./static/paintings/liegende-quellnymphe.html«… 3-0
-Umwandlung von Links in »./static/index.html«… 48-0
-Umwandlung von Links in »./static/paintings/parisurteil.html«… 3-0
-Umwandlung von Links in »./static/paintings/sibylle-kurfurstin-von-sachsen.html«… 3-0
-Umwandlung von Links in »./static/paintings/bildnis-eines-mannes-mit-rotem-bart.html«… 3-0
-Umwandlung von Links in »./static/paintings/bildnis-eines-mannes-mit-einer-goldbestickten-mutze-lukas-spielhausen.html«… 3-0
-Umwandlung von Links in »./static/paintings/bildnis-martin-luthers.html«… 3-0
-Umwandlung von Links in »./static/paintings/bildnis-johann-friedrich-der-grossmutige-kurfurst-von-sachsen-1503-1554.html«… 3-0
-Umwandlung von Links in »./static/paintings/lucretia.html«… 3-0
-Umwandlung von Links in »./static/paintings/samson-und-delilah.html«… 3-0
-Umwandlung von Links in »./static/paintings/bildnis-einer-frau.html«… 3-0
-Umwandlung von Links in »./static/paintings/urteil-des-paris.html«… 3-0
-Umwandlung von Links in »./static/paintings/bildnis-eines-mannes.html«… 3-0
-Umwandlung von Links in »./static/paintings/bildnis-anna-buchner-geborene-lindacker.html«… 3-0
-Umwandlung von Links in »./static/paintings/hl-maurizius.html«… 3-0
-Umwandlung von Links in »./static/paintings/der-mund-der-wahrheit.html«… 3-0
-Umwandlung von Links in »./static/assets/css/site.css«… 6-0
-Links in 47 Dateien in 0,02 Sekunden umgewandelt.
+Datei »./static/assets/fonts/IBM_Plex_Mono/IBMPlexMono-Medium.ttf« auf dem Server unverändert. Wird nicht heruntergeladen.
+--2019-07-01 13:26:04--  http://localhost/graphics/die-dornenkronung-aus-der-passion-christi-folge-von-14-holzschnitten/XX_XYZ_123
+Wiederverwendung der bestehenden Verbindung zu localhost:80.
+HTTP-Anforderung gesendet, auf Antwort wird gewartet … 200 OK
+Länge: nicht spezifiziert [text/html]
+Wird in »./static/graphics/die-dornenkronung-aus-der-passion-christi-folge-von-14-holzschnitten/XX_XYZ_123.html« gespeichert.
+
+     0K .......... ...                                          166M=0s
+
+»Last-modified«-Kopfzeile fehlt -- Zeitstempel abgeschaltet.
+2019-07-01 13:26:04 (166 MB/s) - »./static/graphics/die-dornenkronung-aus-der-passion-christi-folge-von-14-holzschnitten/XX_XYZ_123.html« gespeichert [13772]
+
+BEENDET --2019-07-01 13:26:04--
+Verstrichene Zeit: 3m 6s
+Geholt: 72 Dateien, 241K in 0,004s (55,0 MB/s)
+Umwandlung von Links in »./static/graphics/christus-am-olberg-aus-der-passion-christi-folge-von-14-holzschnitten.html«… 2-0
+Umwandlung von Links in »./static/graphics/die-geisselung-aus-der-passion-christi-folge-von-14-holzschnitten.html«… 2-0
+Umwandlung von Links in »./static/graphics/das-martyrium-des-apostels-paulus-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html«… 2-0
+Umwandlung von Links in »./static/graphics/der-heilige-paulus-aus-dem-wittenberger-heiltumsbuch-wittenberg-1509-sechster-gang-nr-xiii.html«… 2-0
+Umwandlung von Links in »./static/graphics/das-martyrium-des-apostels-jakobus-des-jungeren-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html«… 2-0
+Umwandlung von Links in »./static/graphics/handwaschung-des-pilatus-aus-der-passion-christi-folge-von-14-holzschnitten.html«… 2-0
+Umwandlung von Links in »./static/graphics/venus-und-cupido.html«… 2-0
+Umwandlung von Links in »./static/graphics/das-martyrium-des-apostels-thomas-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html«… 2-0
+Umwandlung von Links in »./static/graphics/das-urteil-des-paris.html«… 2-0
+Umwandlung von Links in »./static/graphics/die-beweinung-christi-aus-der-passion-christi-folge-von-14-holzschnitten.html«… 2-0
+Umwandlung von Links in »./static/graphics/das-vierte-turnier-mit-schwertern.html«… 2-0
+Umwandlung von Links in »./static/graphics/der-hl-augustin-in-anbetung-des-schmerzensmannes.html«… 2-0
+Umwandlung von Links in »./static/graphics/das-martyrium-des-apostels-andreas-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html«… 2-0
+Umwandlung von Links in »./static/graphics/vornehmes-paar-auf-einem-pferd-reitend.html«… 2-0
+Umwandlung von Links in »./static/graphics/busse-des-heiligen-johannes-chrysostomos.html«… 2-0
+Umwandlung von Links in »./static/graphics/das-martyrium-des-apostels-bartholomaus-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html«… 2-0
+Umwandlung von Links in »./static/graphics/das-martyrium-des-apostels-simon-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html«… 2-0
+Umwandlung von Links in »./static/graphics/peinigung-des-hl-antonius.html«… 2-0
+Umwandlung von Links in »./static/graphics/die-dornenkronung-aus-der-passion-christi-folge-von-14-holzschnitten/XX_XYZ_123.html«… 3-0
+Umwandlung von Links in »./static/graphics/christus-vor-kaiphas-aus-der-passion-christi-folge-von-14-holzschnitten.html«… 2-0
+Umwandlung von Links in »./static/graphics/gefangennahme-aus-der-passion-christi-folge-von-14-holzschnitten.html«… 2-0
+Umwandlung von Links in »./static/graphics/reiter-im-wald-auf-wildschweinjagd.html«… 2-0
+Umwandlung von Links in »./static/graphics/der-werwolf.html«… 2-0
+Umwandlung von Links in »./static/graphics/landsknecht-und-dame.html«… 2-0
+Umwandlung von Links in »./static/graphics/grosse-hirschjagd.html«… 2-0
+Umwandlung von Links in »./static/graphics/die-kreuzigung-christi.html«… 2-0
+Umwandlung von Links in »./static/graphics/die-holle.html«… 2-0
+Umwandlung von Links in »./static/graphics/die-grablegung-aus-der-passion-christi-folge-von-14-holzschnitten.html«… 2-0
+Umwandlung von Links in »./static/graphics/der-heilige-petrus-aus-dem-wittenberger-heiltumsbuch-wittenberg-1509-sechster-gang-nr-xvi.html«… 2-0
+Umwandlung von Links in »./static/graphics/ecce-homo-aus-der-passion-christi-folge-von-14-holzschnitten.html«… 2-0
+Umwandlung von Links in »./static/graphics/friedrich-der-weise-kurfurst-von-sachsen-den-heiligen-bartholomaus-anbetend.html«… 2-0
+Umwandlung von Links in »./static/graphics/das-martyrium-des-apostels-jakobus-des-alteren-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html«… 2-0
+Umwandlung von Links in »./static/graphics/christus-vor-hannas-aus-der-passion-christi-folge-von-14-holzschnitten.html«… 2-0
+Umwandlung von Links in »./static/graphics/die-himmelsleiter-des-heiligen-bonaventura.html«… 2-0
+Umwandlung von Links in »./static/graphics/christus-am-olberg.html«… 2-0
+Umwandlung von Links in »./static/graphics/doppelbildnis-friedrichs-des-weise-kurfurst-von-sachsen-und-johann-des-bestandigen-herzog-von-sachsen-titelbild-des-wittenberger-heiltumbuchs.html«… 2-0
+Umwandlung von Links in »./static/graphics/das-martyrium-des-apostels-johannes-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html«… 2-0
+Umwandlung von Links in »./static/graphics/ritter-nach-rechts-reitend.html«… 2-0
+Umwandlung von Links in »./static/graphics/wappen-des-herzogs-johann-des-bestandigen-von-sachsen-holzschnitt-zum-wittenberger-heiltumsbuch-wittenberg-1509.html«… 2-0
+Umwandlung von Links in »./static/graphics/das-martyrium-des-heiligen-erasmus.html«… 2-0
+Umwandlung von Links in »./static/graphics/der-heilige-georg-zu-pferd.html«… 2-0
+Umwandlung von Links in »./static/graphics/luther-als-junker-jorg.html«… 2-0
+Umwandlung von Links in »./static/graphics/die-kreuztragung-aus-der-passion-christi-folge-von-14-holzschnitten.html«… 2-0
+Umwandlung von Links in »./static/graphics/die-busse-des-hl-hieronymus.html«… 2-0
+Umwandlung von Links in »./static/index.html«… 72-0
+Umwandlung von Links in »./static/graphics/das-martyrium-des-apostels-judas-thaddaus-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html«… 2-0
+Umwandlung von Links in »./static/graphics/das-martyrium-des-apostels-petrus-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html«… 2-0
+Umwandlung von Links in »./static/graphics/die-kreuzigung-aus-der-passion-christi-folge-von-14-holzschnitten.html«… 2-0
+Umwandlung von Links in »./static/graphics/die-kreuzigung.html«… 2-0
+Umwandlung von Links in »./static/graphics/der-opfertod-des-marcus-curtius.html«… 2-0
+Umwandlung von Links in »./static/graphics/hl-christophorus.html«… 2-0
+Umwandlung von Links in »./static/graphics/der-heilige-georg.html«… 2-0
+Umwandlung von Links in »./static/graphics/hl-stephanus.html«… 2-0
+Umwandlung von Links in »./static/graphics/die-auferstehung-aus-der-passion-christi-folge-von-14-holzschnitten.html«… 2-0
+Umwandlung von Links in »./static/graphics/prinz-auf-einem-pferd-reitend.html«… 2-0
+Umwandlung von Links in »./static/graphics/das-martyrium-des-apostels-matthias-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html«… 2-0
+Umwandlung von Links in »./static/graphics/christus-vor-herodes-aus-der-passion-christi-folge-von-14-holzschnitten.html«… 2-0
+Umwandlung von Links in »./static/graphics/die-kreuzigung-holzschnitt-zu-adam-von-fulda-ein-ser-andechtig-cristenlich-buchlein-wittenberg-1512.html«… 2-0
+Umwandlung von Links in »./static/graphics/die-dornenkronung-aus-der-passion-christi-folge-von-14-holzschnitten.html«… 3-0
+Umwandlung von Links in »./static/graphics/das-turnier-auf-dem-marktplatz.html«… 2-0
+Umwandlung von Links in »./static/graphics/das-martyrium-des-apostels-philippus-aus-der-folge-das-martyrium-der-zwolf-apostel-12-blatter.html«… 2-0
+Umwandlung von Links in »./static/graphics/das-martyrium-der-heiligen-barbara.html«… 2-0
+Umwandlung von Links in »./static/graphics/kardinal-albrecht-von-brandenburg-erzbischof-und-kurfurst-von-mainz.html«… 2-0
+Umwandlung von Links in »./static/graphics/maria-und-johannes-unter-dem-gekreuzigten.html«… 2-0
+Umwandlung von Links in »./static/graphics/das-zweite-turnier-mit-lanzen-und-schwertern-sowie-balkonteppich.html«… 2-0
+Umwandlung von Links in »./static/graphics/das-dritte-turnier-mit-lanzen.html«… 2-0
+Umwandlung von Links in »./static/graphics/hl-georg-zu-pferd-mit-dem-schwert-gegen-den-drachen-kampfend.html«… 2-0
+Umwandlung von Links in »./static/graphics/das-von-christus-und-dem-hl-geist-erfullte-herz-des-glaubigen.html«… 2-0
+Umwandlung von Links in »./static/graphics/der-heilige-michael-als-seelenwager.html«… 2-0
+Umwandlung von Links in »./static/graphics/maria-magdalena-von-engeln-zu-himmel-getragen.html«… 2-0
+Umwandlung von Links in »./static/graphics/martin-luther-als-augustinermonch.html«… 2-0
+Umwandlung von Links in »./static/assets/css/site.css«… 6-2
+Links in 72 Dateien in 0,04 Sekunden umgewandelt.
